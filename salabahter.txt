@@ -1,0 +1,216 @@
+-------------------------NUM1------------------------------------------------------------------
+number = lines[0].split()[0]
+
+[name for i,name in enumerate(names) if i%2 !=0 ] 
+[capitalize_weird(name) for name in names if len(name)>4]
+filter(lambda x:len(x)>4, names)
+map(capitalize_weird, names)
+map(capitalize_weird, filter(lambda x:len(x)>4, names))
+
+*tuple
+map(capitalize_weird, names)
+arbitrary_as_hell = (capitalize_weird, names)
+map(*arbitrary_as_hell)
+func, coll = arbitrary_as_hell
+
+
+Dicts
+mydict = { 'asd' : {'a1':1,'a2':'abv','a3':True}}
+mydict['asd']['a1']
+
+
+if the name starts with A do one functiona and if it starts with D do the other
+low = lambda x: x.lower()
+
+mydict = {'A' : capitalize_weird, 'D' : low }
+[  mydict[name[0]](name) for name in names2 ]
+[  mydict[name[0]](name) for name in names if mydict.has_key(name[0])]
+
+mydict.get('A') 		-><function __main__.capitalize_weird>
+[  mydict.get(name[0], capitalize_weird)(name) for name in names ]
+
+xdict.keys()
+xdict.values()
+for x in xdict.iteritems():
+    print x
+for x in xdict.items():
+    print x
+xdict.items()[0]
+xdict.update(mydict)
+
+ex_dict = {}
+for n in names_ex:
+    ex_dict.setdefault(n[0], []).append(n)
+
+reordered = serie_states_b.index[:2] |serie_states_b.index[2:] 
+serie_states_b.reindex(reordered)
+
+
+data = {'state': ['Ohio', 'Ohio', 'Ohio', 'Nevada', 'Nevada'],
+        'year': [2000, 2001, 2002, 2001, 2002],
+        'pop': [1.5, 1.7, 3.6, 2.4, 2.9]}
+df = pd.DataFrame(data)
+df2 = pd.DataFrame(data, index=['a','b','c','d','e'])
+df2.ix['a']
+df2.iloc[0]
+
+debt = pd.Series([1.2,3,5.3], index = ['a', 'd','e'])
+df2['debt'] = debt
+df2['debt'] = df2['debt'].fillna(0)
+
+df.drop([1,2]) - rows
+df.drop('state', axis=1) - columns
+
+df2.columns[3:5]
+df2[df2.columns[3:5]]
+
+df2.ix[year.sort_values().index]
+
+-------------------------NUM2------------------------------------------------------------------
+
+for name, group in df_ac.groupby('manufacturer'):
+    print name
+    print group[['nb_engines','icao_code']]
+
+for (mf, iata), group in df_ac.groupby(['manufacturer', 'iata_code']):
+    print mf
+    print iata
+    print group[['nb_engines','icao_code']]
+
+gb.aggregate(['mean','std'])
+
+
+mu, sigma = 100, 15
+x = mu + sigma * np.random.randn(10000)
+
+plt.hist(x, 50,normed =1)
+plt.scatter(x, 1/x, alpha=0.1)
+plt.plot(x,y)
+
+plt.xlabel('IQ')
+plt.ylabel('%')
+plt.axis([40, 160, 0, 0.04])
+
+x = np.linspace(0,100, 10000) =Return evenly spaced numbers over a specified interval.
+-------------------------NUM2b----
+files = !ls {path} = !ls $path
+!unzip -l {path + first_file}
+!unzip -o {path + first_file} readme.html -d $(pwd)
+
+from IPython.display import IFrame
+IFrame('readme.html', width=700, height=350)
+
+import os
+import zipfile
+filenames = os.listdir(path)
+zip_file = zipfile.ZipFile(path + filenames[0])
+csv_file = zip_file.open(filenames[0].split('.')[0] + '.csv') = zamjeni zip extencziju u csv
+type(csv_file) type(zip_file)
+df = pd.read_csv(csv_file, header=0) -> citamo zip file bez da ga decomprimiramo
+
+df.dtypes
+len(df.columns)
+len(df)
+df.shape
+df.describe()
+non_null_counts = df.count()
+len(non_null_counts[non_null_counts > 1000])
+cols_to_drop = non_null_counts[non_null_counts<1000]
+df2 = df.drop(cols_to_drop.index, axis=1)
+
+origin_cols = df2.columns[df2.columns.str.contains('Ori')]
+
+cols_of_interest = pd.Index(['Origin', 'OriginCityName',
+                             'OriginStateName','Dest',
+                             'DestCityName', 'DestStateName'])
+destination_cols = df2.columns[df2.columns.str.contains('Dest')]
+
+place_cols = origin_cols | destination_cols
+cols_to_drop = place_cols.difference(cols_of_interest)
+df3 = df2.drop(cols_to_drop, axis=1) |ovo je tru false sada sa indexom
+
+df3[df3.columns[df3.columns.str.contains('Delay')]].head()
+
+df4['DepTime'].fillna(0.0).map(format_time)
+-------------------------NUM3------------------------------------------------------------------
+
+df4.columns[df4.columns.str.startswith('Div')]
+by_plane = df5.groupby('TailNum')
+x = by_plane['DepDelay'].mean()
+average_delays = by_plane['DepDelay'].agg(['mean', 'count'])
+average_delays[average_delays['count']> 10].sort_values('mean', ascending=False )
+
+f, ((ul,ur),(ll,lr)) = plt.subplots(2,2, figsize=(10,5))
+ul.plot(df5['DepDelay'], df5['Distance'])
+ur.scatter(df5['DepDelay'], df5['Distance'], alpha=0.1)
+ll.scatter(subset['DepDelay'], subset['Distance'])
+lr.set_ylim(0,1000)
+lr.set_xlim(0,200)
+lr.scatter(subset['DepDelay'], subset['Distance'], alpha=0.2)
+
+f2 = plt.figure()
+f2.add_subplot(221)
+f2.add_subplot(224)
+
+f, ax = plt.subplots()
+ax.scatter(df5['Hour'], df['DepDelay'])
+
+-------------------------NUM4------------------------------------------------------------------
+By default, Pandas does an inner join on the valus of the shared columns
+pd.merge(df4, df5, left_on='lkey', right_on='rkey')
+If we want to use columns that do not have the same name in both dataframes and/or do something other than an inner join, we need to specify:
+When we join _left_, _right_ or _outer_, there might be fields in the resulting dataframe that were not present in the inputs. These will be labeled with NaNs
+
+pd.merge(df4, df5, left_on='lkey', right_on='rkey', how='outer')
+
+pd.merge(left, right, on=['key1','key2'])
+pd.merge(left, right, on=['key1'], suffixes=['_left', '_right'])
+
+We can also use the index of one or the two dataframes as merging keys
+right1 = pd.DataFrame({'vals': [5,8]}, index=['a','b'])
+
+pd.DataFrame({'key': list('bbacaab'),
+              'data1': range(7)}, index=list('abcdefg'))
+pd.merge(left1, right1, left_on='key1', right_index=True)
+
+pd.DataFrame(zip(range(6), range(6)))
+
+
+## Hierarchical indexing is the use of a multi-level index.
+right_h = pd.DataFrame(np.arange(12).reshape(6,2),
+                      index = [list('aabbxx'),list('bbnnnn')]
+                      )
+
+If we want to join a dataframe with another that has a hierarchical index, we need to specify as many columns as there are levels in the index
+pd.merge(left, right_h, left_on=['key1', 'key2'], right_index=True)
+
+## Concatenating
+Ie: joining side by side or top to bottom, without cross-referencing the indexes.
+np.concatenate([arr,arr], axis=0)
+pd.concat([s1,s2,s3], axis=1, keys=list('ijk'))
+df6 = pd.concat([s1,s2,s3], axis=1, keys=list('ijk')).fillna(42)
+
+np.random.randn(2,2)
+
+pd.concat([df6,df7])
+df6.append(df7)
+
+airports = df5['Origin'].unique()
+
+### Now we write a series of functions to progressively attack the problem
+
+In order to get the closest station to each airport, we'll need:
+    * to get the latitude and longitude of each airport, using GeoBases.
+    * Given lat and lon, to calculate the distance from a single station
+    * Given that, generalize it to all stations
+    * Given the previous, get the station with the minimum distance to this particular airport
+
+We'll write a short, reusable, well-defined function for each of these steps to incrementally get closer to our answer. Once we have the final one, we just need to apply it to each airport!
+
+stations_df_floats = stations_df.applymap(float)
+
+import gzip
+gz_file = gzip.GzipFile('2015.csv.gz')
+
+lines = [line for line in gz_file if line[:11] in closest]
+

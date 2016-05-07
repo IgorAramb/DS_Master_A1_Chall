@@ -1,0 +1,2275 @@
+arr_port^pax^Airport Name
+LHR^88809.0^London Heathrow Airport
+MCO^70930.0^Orlando International Airport
+LAX^70530.0^Los Angeles International Airport
+LAS^69630.0^Mc Carran International Airport
+JFK^66270.0^John F Kennedy International Airport
+CDG^64490.0^Paris - Charles-de-Gaulle
+BKK^59460.0^Suvarnabhumi
+MIA^58150.0^Miami International Airport
+SFO^58000.0^San Francisco International Airport
+DXB^55590.0^Dubai International Airport
+ORD^53200.0^Chicago O'Hare International Airport
+FCO^45120.0^Leonardo da Vinci–Fiumicino Airport
+IST^43850.0^Istanbul / Ataturk
+DFW^42420.0^Dallas/Fort Worth International Airport
+CUN^42000.0^Cancún International Airport
+MAD^41410.0^Madrid / Barajas
+BCN^41200.0^Barcelona–El Prat Airport
+LGA^40712.0^La Guardia Airport
+ATL^39780.0^Hartsfield - Jackson Atlanta International Airport
+EWR^36890.0^Newark International Airport
+BOS^35840.0^General Edward Lawrence Logan International Airport
+DEL^35680.0^New Delhi / Palam
+SYD^33690.0^Sydney International Airport
+BOM^33440.0^Bombay / Santacruz
+MUC^33180.0^Munich International Airport
+DEN^32630.0^Denver International Airport
+MNL^32400.0^Ninoy Aquino Manila International Airport
+HKG^32020.0^Hong Kong International Airport
+FRA^31970.0^Frankfurt Airport
+ORY^31800.0^Paris-Orly
+SEA^31530.0^Seattle-Tacoma International Airport
+FLL^31170.0^Fort Lauderdale-Hollywood International Airport
+TXL^30590.0^Berlin Tegel Airport
+AMS^30580.0^Amsterdam Airport Schiphol
+PHX^29730.0^Phoenix Sky Harbor International Airport
+DCA^29000.0^Ronald Reagan Washington National Airport
+MEX^28120.0^Mexico City International Airport
+IAH^28090.0^George Bush Intercontinental/Houston Airport
+JED^27090.0^Jeddah King Abdul Aziz International Airport
+PVG^26630.0^Shanghai Pudong International Airport
+YYZ^26070.0^Toronto Pearson Int'L. Ont.
+VIE^25750.0^Flughafen Wien-Schwechat
+LIS^25050.0^Lisboa / Portela
+SIN^24874.0^Singapore Changi Airport
+CAI^24640.0^Cairo International Airport
+HNL^24140.0^Honolulu International Airport
+ATH^24100.0^Athens Eleftherios Venizelos International Airport
+MEL^23830.0^Melbourne Airport
+SAN^23720.0^San Diego International Airport
+JNB^23710.0^Oliver Reginald Tambo International
+PEK^23680.0^Beijing Capital International Airport
+BOG^23090.0^El Dorado International Airport
+PHL^22210.0^Philadelphia International Airport
+ARN^21800.0^Stockholm-Arlanda Airport
+TPA^21530.0^Tampa International Airport
+SVO^21292.0^Sheremetyevo International Airport
+BRU^20940.0^Bruxelles National
+TLV^20190.0^Ben Gurion Airport
+ZRH^20190.0^Zurich-Kloten
+LIM^20150.0^Jorge Chávez International Airport
+MSP^20030.0^Minneapolis-Saint Paul International Airport
+CPH^19740.0^Copenhagen Airport
+BNE^19480.0^Brisbane Airport
+RUH^19440.0^King Khalid International
+IAD^19170.0^Washington Dulles International Airport
+ICN^18560.0^Incheon International Airport
+DUS^18250.0^Düsseldorf International Airport
+KUL^18200.0^Sepang/KL International Airport
+DTW^17800.0^Detroit Metropolitan Wayne County Airport
+OSL^17000.0^Oslo Airport, Gardermoen
+MXP^16950.0^Aeroporto della Malpensa
+CLT^16862.0^Charlotte/Douglas International Airport
+NRT^16570.0^Narita International Airport
+LED^15960.0^Pulkovo Airport
+YVR^15920.0^Vancouver International Airport
+CPT^15840.0^Cape Town International Airport
+MSY^15820.0^Louis Armstrong New Orleans International Airport
+HAM^15640.0^Hamburg Airport
+PUJ^14960.0^Aeropuerto Internacional Punta Cana
+MAA^14940.0^Chennai International Airport
+AKL^14940.0^Auckland International Airport
+NCE^14880.0^Nice Côte d'Azur International Airport
+GVA^14720.0^Aéroport Genève-Cointrin
+TPE^14450.0^Taiwan Taoyuan International Airport
+HKT^14040.0^Phuket International Airport
+YUL^14040.0^Montreal / Pierre Elliot Trudeau International Airport, Que
+LIN^14020.0^Milano Linate Airport
+PRG^13990.0^Prague Ruzyně International Airport
+GRU^13850.0^Guarulhos Airport
+PMI^13840.0^Palma de Mallorca Airport
+TUN^13830.0^Tunis-Carthage
+SJU^13730.0^Luis Munoz Marin International Airport
+DME^13600.0^Domodedovo International Airport
+BWI^13590.0^Baltimore-Washington International Airport
+SLC^13530.0^Salt Lake City International Airport
+BLR^13490.0^Bengaluru International Airport
+PER^13300.0^Perth Airport
+DUB^12900.0^Dublin Airport
+STL^12760.0^Lambert–St. Louis International Airport
+DPS^12740.0^Ngurah-Rai Airport
+SGN^12700.0^Tan Son Nhat International Airport
+PDX^12550.0^Portland International Airport
+DAC^12420.0^Kurmitola, Dia
+RSW^12310.0^Southwest Florida International Airport
+AMM^12310.0^Queen Alia International
+VCE^12030.0^Marco Polo Airport
+HEL^11930.0^Helsinki-Vantaa Airport
+MRU^11820.0^Sir Seewoosagur Ramgoolam International Airport
+DOH^11810.0^Doha International Airport
+SCL^11760.0^Aeropuerto Arturo Merino Benítez
+CAN^11730.0^Guangzhou
+CMN^11720.0^Mohammed V International Airport
+RDU^11530.0^Raleigh-Durham International Airport
+AGP^11520.0^Málaga Airport
+AUS^11480.0^Austin-Bergstrom International Airport
+HYD^11410.0^Rajiv Gandhi International Airport
+EZE^11360.0^Ministro Pistarini Airport
+CMB^11230.0^Bandaranayake International Air Port
+WAW^11200.0^Warsaw Chopin Airport
+BEY^10950.0^Beirut International Airport
+SAT^10780.0^San Antonio International Airport
+CGK^10640.0^Soekarno–Hatta International Airport
+ALG^10610.0^Algiers Houari Boumediene Airport
+COK^10490.0^Cochin International Airport
+PIT^10430.0^Pittsburgh International Airport
+BUD^10420.0^Budapest / Ferihegy
+MBJ^10390.0^Sangster International Airport
+GIG^10380.0^Rio de Janeiro-Galeão International Airport
+SNA^10360.0^John Wayne-Orange County Airport
+MCI^9910.0^Kansas City International Airport
+YYC^9810.0^Calgary International, Alta.
+MRS^9650.0^Marseille Provence Airport
+MAN^9540.0^Manchester Airport
+OGG^9040.0^Kahului Airport
+CCU^8990.0^Netaji Subhas Chandra Bose International Airport
+BNA^8980.0^Nashville International Airport
+PBI^8910.0^Palm Beach International
+NBO^8740.0^Nairobi/Jomo Kenyatta Airport TWR/APP/NOF/Civil Airlines
+LYS^8590.0^Lyon-Saint-Exupéry
+AUH^8560.0^Abu Dhabi International Airport
+UIO^8550.0^Mariscal Sucre International Airport
+KBP^8490.0^Kiev Boryspil International Airport
+LGW^8380.0^London / Gatwick Airport
+SJC^8280.0^San Jose International Airport
+IND^8240.0^Indianapolis International Airport
+ISB^8160.0^Benazir Bhutto International Airport
+TLS^8160.0^Toulouse-Blagnac Airport
+GDL^8150.0^Don Miguel Hipalgo International
+AEP^8010.0^Jorge Newbery Airport
+PTY^7910.0^Tocumen International Airport
+OTP^7900.0^Henri Coandă International Airport
+CCS^7800.0^Maiquetia
+SDQ^7770.0^Las Américas International Airport
+JAX^7690.0^Jacksonville International Airport
+USM^7670.0^Koh Samui Airport
+SJO^7590.0^Juan Santamaría International Airport
+ADL^7570.0^Adelaide Airport
+CMH^7480.0^Port Columbus International Airport
+CLE^7440.0^Cleveland-Hopkins International Airport
+STR^7410.0^Stuttgart
+KWI^7380.0^Kuwait Internationalairport
+LCY^7300.0^London City Airport
+CTA^7300.0^Aeroporto di Catania-Fontanarossa
+MKE^7230.0^General Mitchell International Airport
+LHE^7200.0^Allama Iqbal International Airport
+MLA^7120.0^Luqa
+DMM^7100.0^King Fahd International Airport
+SJD^7080.0^San Jose Del Cabo
+DUR^6950.0^King Shaka International Airport
+HAV^6910.0^José Martí International Airport
+GYE^6830.0^Guayaquil / Simon Bolivar
+NAS^6680.0^Nassau International Airport
+TRV^6640.0^Trivandrum International Airport
+KOA^6620.0^Kona International Airport
+MDE^6540.0^José María Córdova International Airport
+KTM^6500.0^Tribhuwan Airport
+CTG^6440.0^Aeropuerto Internacional de Crespo
+MCT^6420.0^Maţār as Sīb ad Duwalī
+CVG^6390.0^Cincinnati-Northern Kentucky International Airport
+BLQ^6370.0^"Aeroporto di Bologna ""Guglielmo Marconi"" - Terminal B"
+OPO^6350.0^Francisco de Sá Carneiro Airport
+PVR^6280.0^Licenciado Gustaavo Diaz Ordaz International
+MEM^6230.0^Memphis International Airport
+BDL^6190.0^Bradley International Airport
+BGO^6140.0^Bergen / Flesland
+CCJ^6070.0^Calicut International Airport
+SMF^6040.0^Sacramento International Airport
+CLO^6010.0^Cali / Alfonso Bonillaaragon
+AUA^5970.0^Koningin Beatrix Luchthaven
+TFN^5900.0^Tenerife North Airport
+ADD^5880.0^Addis Ababa Bole International Airport
+KEF^5810.0^Keflavík International Airport
+LPA^5780.0^Gran Canaria Airport
+BAH^5740.0^Bahrain International Airport
+FLR^5720.0^Florence Peretola Airport
+BEG^5560.0^Belgrade Nikola Tesla Airport
+CHC^5410.0^Christchurch International Airport
+MLE^5400.0^Malé International Airport
+SAL^5370.0^Aeropuerto Internacional El Salvador
+CGN^5260.0^Cologne/Bonn
+EDI^5240.0^Edinburgh Airport
+AMD^5200.0^Ahmadabad
+AYT^5170.0^Antalya
+VLC^5110.0^Valencia Airport
+SKG^5100.0^Thessaloniki Airport
+GOT^5070.0^Gothenburg-Landvetter Airport
+HAN^4970.0^Ha Noi
+RAK^4970.0^Marrakesh Menara Airport
+SVG^4960.0^Stavanger Airport, Sola
+ANC^4940.0^Anchorage International Airport
+SOF^4920.0^Sofia Airport
+LIH^4900.0^Lihue Airport
+KHI^4890.0^Karachi Airport
+HAJ^4830.0^Hannover-Langenhagen Airport
+BUF^4820.0^Greater Buffalo International Airport
+YEG^4770.0^Edmonton International, Alta.
+KIX^4720.0^Kansai International Airport
+LCA^4700.0^Larnaca International Airport
+OKC^4700.0^Will Rogers World Airport
+LOS^4690.0^Murtala Mohammed International Airport
+BIO^4650.0^Bilbao Airport
+BOD^4630.0^Bordeaux–Mérignac Airport
+MTY^4610.0^General Mariano Escobedo International Airport
+ALA^4580.0^Almaty
+DKR^4560.0^Léopold Sédar Senghor International Airport
+PTP^4540.0^Pointe-à-Pitre - Le Raizet
+CBR^4520.0^Canberra International Airport
+CUR^4510.0^Hato International Airport
+ORF^4480.0^Norfolk International Airport
+SDF^4470.0^Standiford Field
+GUA^4460.0^Guatemala Aeropuertola Aurora
+BHX^4420.0^Birmingham / Airport
+NAP^4420.0^Naples International Airport
+CNX^4400.0^Chiang Mai
+RIX^4400.0^Riga International Airport
+VKO^4360.0^Vnukovo International Airport
+RIC^4300.0^Richmond International Airport
+ABQ^4290.0^Albuquerque International Airport
+CHS^4160.0^Charleston International Airport
+OMA^4120.0^Eppley Airfield
+PSP^4100.0^Palm Springs International Airport
+TUS^4090.0^Tucson International Airport
+SAV^4080.0^Savannah International Airport
+KRK^4030.0^John Paul II International Airport Kraków-Balice
+WLG^3990.0^Wellington International Airport
+RGN^3940.0^Yangon
+CUZ^3910.0^Alejandro Velasco Astete International Airport
+YOW^3860.0^Ottawa Int'L. Ont.
+ACC^3810.0^Kotoka International Airport
+AER^3790.0^Sochi International Airport
+PMO^3790.0^Palermo / Punta Raisi
+GEG^3770.0^Spokane International Airport
+ABZ^3710.0^Aberdeen / Dyce
+GOI^3680.0^Goa International Airport
+HOU^3670.0^William P Hobby Airport
+RNO^3640.0^Reno/Tahoe International Airport
+FDF^3630.0^Martinique-Aimé-Césaire
+NAN^3630.0^Nadi International Airport
+STT^3620.0^Cyril E. King Airport
+HER^3620.0^Heraklion Airport
+LAD^3610.0^Luanda
+ZAG^3610.0^Zagreb Airport
+LKO^3600.0^Chaudhary Charan Singh Airport
+MDW^3590.0^Chicago Midway Airport
+GLA^3570.0^Glasgow Airport
+DAR^3520.0^Julius Nyerere International Airport
+PVD^3510.0^Theodore Francis Green State Airport
+BAQ^3440.0^Ernesto Cortissoz
+CNS^3420.0^Cairns International Airport
+ESB^3420.0^Ankara / Esenboga
+OAK^3390.0^Metropolitan Oakland International Airport
+CGH^3390.0^Sao Paulo/Congonhas Aeroporto
+POS^3360.0^Piarco International Airport
+PLZ^3330.0^Port Elizabeth Airport
+GSO^3330.0^Piedmont Triad International Airport
+PNS^3290.0^Pensacola Regional Airport
+HND^3290.0^Tokyo International Airport
+IBZ^3280.0^Ibiza Airport
+DAY^3280.0^James M Cox Dayton International Airport
+MED^3280.0^Madinah
+MGA^3260.0^Managua A. C. Sandino
+FNC^3210.0^Aeroporto Da Madeira
+KRT^3190.0^Khartoum International Airport
+BOI^3190.0^Boise Air Terminal
+TBS^3180.0^Tbilisi International Airport
+LUX^3160.0^Luxembourg Findel Airport
+RUN^3150.0^Roland Garros Airport
+LIT^3140.0^Adams Field
+ELP^3130.0^El Paso International Airport
+TSE^3130.0^Astana International Airport
+GRR^3110.0^Gerald R. Ford International Airport
+IKA^3110.0^Tehran Imam Khomeini International Airport
+DSM^3090.0^Des Moines International Airport
+ADB^3060.0^Izmir / Adnan Menderes
+ROC^3040.0^Greater Rochester International Airport
+ADZ^3030.0^San Andres Isla / Sesquicentenario
+ONT^3020.0^Ontario International Airport
+TRD^3000.0^Trondheim Airport, Værnes
+MYR^3000.0^Myrtle Beach International Airport
+SYR^3000.0^Syracuse Hancock International Airport
+KRR^3000.0^Krasnodar
+CEB^2990.0^Mactan-Cebu International Airport
+NUE^2980.0^Nuremberg Airport
+HBE^2970.0^Alexandria Borg El Arab
+BGI^2960.0^Grantley Adams International Airport
+ORN^2950.0^Oran / Es Senia
+ROV^2950.0^Rostov-on-Don Airport
+BHM^2920.0^Birmingham-Shuttlesworth International Airport
+TIP^2860.0^Tripoli Inter-National Airport
+KIN^2840.0^Norman Manley International Airport
+GYD^2810.0^Heydar Aliyev International Airport
+TUL^2810.0^Tulsa International Airport
+YHZ^2800.0^Halifax International Airport
+MBA^2800.0^Mombasa
+SUF^2760.0^Lamezia Terme International Airport
+TRN^2760.0^Turin Caselle Airport
+ALC^2760.0^Alicante Airport
+BMA^2760.0^Stockholm-Bromma Airport
+SVQ^2750.0^Sevilla / San Pablo
+KBV^2740.0^Krabi Airport
+SXM^2740.0^Princess Juliana Airport
+PPT^2720.0^Tahiti-Faaa
+SDU^2720.0^Santos Dumont Airport
+FAO^2700.0^Faro / Aeroporto
+COS^2690.0^Colorado Springs Airport
+YWG^2680.0^Winnipeg Int. Airportman.
+BRI^2680.0^"Bari ""Karol Wojtyła"" Airport"
+SEZ^2670.0^Seychelles International Airport
+ABJ^2600.0^Abidjan
+GSP^2600.0^Greenville-Spartanburg Airport
+CTS^2600.0^New Chitose Airport
+MSQ^2600.0^Minsk National Airport
+EBB^2600.0^Entebbe Airport
+NTE^2570.0^Nantes Atlantique Airport
+GUM^2560.0^Antonio B. Won Pat International Airport
+TLL^2520.0^Tallinn Airport
+TIA^2520.0^Tirana International Airport Nënë Tereza
+PAP^2520.0^Toussaint Louverture International Airport
+MSN^2490.0^Dane County Regional Airport
+ATQ^2480.0^Amritsar
+MDT^2470.0^Harrisburg International Airport
+MVD^2430.0^Carrasco International Airport
+CAE^2430.0^Columbia Metropolitan Airport
+SAW^2430.0^Sabiha Gökçen International Airport
+PNQ^2420.0^Pune Airport
+EVN^2410.0^Zvartnots International Airport
+XNA^2410.0^Northwest Arkansas Regional Airport
+SVX^2400.0^Ekaterinburg
+GDN^2400.0^GdańskZechowo
+TFS^2360.0^Tenerife South Airport
+USH^2350.0^Ushuaia Aerodrome
+OOL^2350.0^Gold Coast Airport
+ALB^2350.0^Albany County Airport
+IGR^2340.0^Cataratas del Iguazú International Airport
+UVF^2340.0^Hewanorra International Airport
+ANU^2340.0^V. C. Bird International Airport
+CNF^2330.0^Belo Horizonte
+TAO^2320.0^Qingdao
+SSH^2320.0^Sharm El Sheikh international airport
+SRQ^2320.0^Sarasota / Bradenton International Airport
+KIV^2310.0^Chişinău International Airport
+BUR^2280.0^Bob Hope Airport
+MFM^2280.0^Macau International Airport
+HBA^2260.0^Hobart Airport
+TYS^2240.0^McGhee Tyson Airport
+PWM^2240.0^Portland International Jetport
+PMV^2220.0^Margarita / Del Carib
+SIP^2220.0^Simferopol
+KTA^2210.0^Karratha Airport
+CAG^2200.0^Cagliari Elmas Airport
+SXB^2200.0^Strasbourg International Airport
+NCL^2200.0^Newcastle International Airport
+JAI^2190.0^Jaipur Airport
+IGU^2190.0^Foz Do Iguacu Aeroporto
+SMR^2180.0^Simón Bolívar International Airport
+POA^2160.0^Aeroporto Internacional Salgado Filho
+ICT^2160.0^Wichita Mid-Continent Airport
+PLS^2160.0^Providenciales
+PNH^2150.0^Phnom Penh International Airport
+SJJ^2140.0^Sarajevo
+LGB^2130.0^Long Beach Airport (Daugherty Field)
+BSB^2130.0^Brasilia International Airport
+GCM^2110.0^Owen Roberts International Airport
+BJX^2110.0^Del Bajío International Airport
+BGA^2100.0^Palonegro International Airport
+SSA^2100.0^Salvador Aeroporto
+GEO^2070.0^Georgetown/Cheddi Jagan International Airport
+LIR^2070.0^Liberia
+BLL^2050.0^Billund Lufthavn
+BSL^2030.0^Bâle-Mulhouse
+RHO^2030.0^Rhodes International Airport
+VVI^2020.0^Viru Viru International Airport
+PUS^2020.0^Pusan / Kimhae International Airport
+ODS^2020.0^Odessa International Airport
+IXE^2010.0^Mangalore Airport
+HRE^2000.0^Harare International Airport
+NGO^2000.0^Chūbu Centrair International Airport
+COR^1980.0^Pajas Blancas Airport
+VRN^1970.0^Verona Villafranca Airport
+HSV^1950.0^Huntsville International Airport-Carl T Jones Field
+CCP^1950.0^Carriel Sur International Airport
+ABV^1950.0^Nnamdi Azikiwe International Airport
+BRE^1950.0^Bremen Airport
+XMN^1880.0^Xiamen
+JTR^1880.0^Santorini Airport
+FAI^1870.0^Fairbanks International Airport
+EYW^1870.0^Key West International Airport
+MDZ^1870.0^Mendoza Aerodrome
+VNO^1870.0^Vilnius Airport
+AHB^1850.0^Abha
+MHT^1840.0^Manchester Airport
+PEI^1830.0^Pereira / Matecana
+MRV^1820.0^Mineral'Nye Vody
+GOA^1810.0^Aeroporto Cristoforo Colombo
+FUE^1810.0^Fuerteventura Airport
+PDL^1800.0^Ponta Delgada / Nordela Acores
+KUF^1790.0^Samara
+DJE^1790.0^Djerba–Zarzis International Airport
+CZL^1790.0^Mohamed Boudiaf International Airport
+DBV^1760.0^Dubrovnik Airport
+TOS^1750.0^Tromsø Airport
+HGH^1720.0^Hangzhou Xiaoshan International Airport
+ZQN^1720.0^Queenstown Airport
+PEN^1720.0^Penang International Airport
+PEW^1720.0^Bacha Khan International Airport
+CTU^1710.0^Chengdu
+AQP^1710.0^Arequipa
+CZM^1700.0^Cozumel International Airport
+ACE^1700.0^Lanzarote Airport
+MPM^1690.0^Aeroporto Internacional de Mavalane
+OVB^1680.0^Tolmachevo Airport
+SHA^1670.0^Shanghai / Hongqiao
+ANF^1660.0^Aeropuerto Cerro Moreno
+AAQ^1650.0^Anapa Airport
+ASU^1650.0^Asuncion / Aeropuerto
+XPG^1630.0^Paris FR Gare Du Nord Rail Stn
+BRC^1620.0^Bariloche Aerodrome
+CAK^1610.0^Akron-Canton Regional Airport
+HPN^1610.0^Westchester County Airport
+LUN^1610.0^Lusaka Internationalairport
+MMX^1610.0^Malmö Airport
+GMP^1610.0^Seoul / Kimp'O International Airport
+SPU^1600.0^Split Airport
+DRW^1600.0^Darwin International Airport
+CJC^1600.0^Aeródromo El Loa
+BTR^1600.0^Baton Rouge Metropolitan Airport
+TAS^1600.0^Tashkent
+VPS^1580.0^Valparaiso / Eglin Air Force Base
+KHH^1580.0^Kaohsiung International Airport
+KBL^1580.0^Kabul International Airport
+YQB^1580.0^Jean Lesage International Airport
+BZN^1560.0^Gallatin Field Airport
+VVO^1550.0^Vladivostok International Airport
+BDA^1540.0^Kindley Field
+DAB^1540.0^Daytona Beach International Airport
+TGU^1540.0^Tegucigalpa
+JAN^1530.0^Jackson-Evers International Airport
+BZE^1520.0^Belize International Airport
+GPT^1520.0^Gulfport-Biloxi Regional Airport
+FAT^1510.0^Fresno Air Terminal Airport
+ZNE^1510.0^Newman Airport
+AJA^1510.0^Ajaccio Napoleon Bonaparte Airport
+AGA^1510.0^Agadir Al Massira
+SZX^1510.0^Shenzhen Bao'an International Airport
+PBM^1500.0^Johan A. Pengel
+BOO^1500.0^Bodø Airport
+LJU^1490.0^Ljubljana Jože Pučnik Airport
+BTV^1490.0^Burlington International Airport
+TNR^1480.0^Ivato International Airport
+IDR^1480.0^Devi Ahilyabai Holkar International Airport
+IXC^1470.0^Chandigarh Airport
+STI^1470.0^Cibao International
+PAT^1470.0^Patna
+WDH^1470.0^Windhoek Hosea Kutako International Airport
+FOC^1460.0^Fuzhou
+WRO^1450.0^Wrocław – Copernicus Airport
+SAP^1450.0^La Mesa San Pedro Sula
+TGD^1440.0^Podgorica Airport
+PRN^1440.0^Pristina International Airport (PIA)
+VNS^1440.0^Lal Bahadur Shastri Airport
+GAU^1430.0^Guwāhāti
+DRS^1430.0^Dresden Airport
+FAY^1430.0^Fayetteville Municipal Airport
+TLH^1430.0^Tallahassee Regional Airport
+POM^1430.0^Moresby
+BLA^1420.0^Campo Nuevo
+BHD^1420.0^Belfast / Harbour
+SZG^1410.0^Salzburg Airport
+YQR^1400.0^Regina
+OUD^1400.0^Angads Airport
+BEN^1400.0^Benina
+SKP^1400.0^Skopje-Petrovec
+TSV^1390.0^Townsville Airport
+DAL^1390.0^Dallas Love Field
+LPB^1380.0^J F Kennedy
+RPR^1380.0^Swami Vivekananda Airport
+BDS^1380.0^Brindisi – Salento Airport
+SLA^1380.0^Martín Miguel de Güemes International Airport
+TUU^1380.0^Tabuk
+YLW^1380.0^Kelowna International Airport
+PZO^1370.0^Guayana / Manuel Car
+NOU^1370.0^La Tontouta International Airport
+ELS^1370.0^East London Airport
+VGO^1360.0^Vigo-Peinador Airport
+FSD^1360.0^Joe Foss Field
+JAC^1360.0^Jackson Hole Airport
+IEV^1350.0^Kyiv Zhuliany International Airport
+PMC^1340.0^Puerto Montt
+BUQ^1340.0^Bulawayo Airport
+REP^1330.0^Siemreap
+JRO^1320.0^Kilimanjaro International Airport
+YTZ^1310.0^Toronto Island Airport Automated Reporting Station
+OLB^1310.0^Olbia - Costa Smeralda Airport
+VAR^1290.0^Varna Airport
+ZYL^1290.0^Sylhet
+YYJ^1290.0^Victoria International Airport
+CGP^1290.0^Shah Amanat International Airport
+SNN^1280.0^Shannon Airport
+BKI^1280.0^Jesselton
+SBA^1270.0^Santa Barbara Municipal Airport
+TAB^1270.0^Crown Point Airport
+YYT^1260.0^St. John's, Nfld
+ILM^1260.0^Wilmington International Airport
+DLC^1230.0^Dalian Zhoushuizi International Airport
+KHV^1220.0^Habarovsk
+SGF^1220.0^Springfield-Branson National Airport
+NKG^1220.0^Nanjing
+BES^1220.0^Brest-Bretagne
+BGW^1210.0^Baghdad International Airport
+HRG^1210.0^Hurguada
+VTZ^1210.0^Vishakhapatnam Airport
+PSC^1200.0^Tri-Cities Airport
+FPO^1200.0^Freeport International Airport
+SHE^1200.0^Shenyang / Taokian
+MPL^1190.0^Montpellier-Méditerranée
+MAR^1190.0^La Chinita Internacional
+PIU^1190.0^Capitán FAP Guillermo Concha Iberico International Airport
+CKY^1180.0^Conakry International Airport
+DUD^1180.0^Dunedin Airport
+LCG^1170.0^A Coruña Airport
+BIQ^1170.0^Biarritz-Bayonne-Anglet
+FRU^1160.0^Bishkek/Manas Airport
+TRU^1160.0^Trujillo
+FTE^1160.0^El Calafate Airport
+LIL^1150.0^Lille-Lesquin
+CUC^1150.0^Cucuta / Camilo Daza
+BIL^1150.0^Logan International Airport
+AMA^1140.0^Rick Husband Amarillo International Airport
+DLA^1140.0^Douala Obs.
+KJA^1130.0^Yemelyanovo Krasnoyarsk International Airport
+TIJ^1130.0^Tijuana International Airport
+PHE^1130.0^Port Hedland Pardoo
+BKO^1120.0^Bamako / Senou
+UDR^1120.0^Udaipur Dabok
+SAH^1080.0^Sana'A
+VER^1080.0^Veracruz / Las Bajadas / General Heriberto Jara
+MTR^1080.0^Los Garzones Airport
+BJV^1080.0^Bodrum Milas Airport
+CUU^1080.0^Chihuahua International
+LEJ^1070.0^Leipzig-Halle Airport
+KGL^1070.0^Kigali International Airport
+DOK^1060.0^Donetsk
+CHQ^1060.0^Chania International Airport
+LEX^1060.0^Blue Grass Airport
+IXB^1050.0^Siliguri
+CPO^1050.0^Desierto de Atacama Airport
+VSA^1040.0^Villahermosa
+BZV^1040.0^Maya-Maya Airport
+CWB^1040.0^Curitiba Aeroporto
+HMO^1040.0^Hermosillo, Son.
+KMG^1040.0^Kunming
+GIZ^1040.0^Gizan
+CJB^1030.0^Coimbatore / Peelamedu
+ROA^1030.0^Roanoke Regional Airport-Woodrum Field
+JER^1020.0^Jersey Airport
+PHF^1020.0^Newport News-Williamsburg International Airport
+RAP^1020.0^Rapid City Regional Airport
+KGD^1020.0^Khrabrovo Airport
+ZYR^1020.0^Brussels BE Brussels Midi Stn
+MOB^1010.0^Mobile Regional Airport
+COO^1010.0^Cotonou
+REC^1010.0^Recife Aeroporto
+RAJ^1010.0^Rajkot Airport
+IQT^1010.0^Iquitos
+ASE^1010.0^Aspen-Pitkin County Airport-Sardy Field
+OVD^1010.0^Asturias / Aviles
+VTE^1000.0^Wattay International Airport
+MAH^1000.0^Menorca Airport
+FLN^1000.0^Florianopolis Aeroporto
+GRX^990.0^Federico García Lorca Airport
+CHA^990.0^Lovell Field
+CUE^990.0^Cuenca / Mariscal Lamar
+MYY^990.0^Miri Airport
+ULN^990.0^Ulan-Bator Chinggis Khan International Airport
+FIH^990.0^N'djili Airport
+ITO^980.0^Hilo International Airport
+ADA^980.0^Adana / Sakirpasa
+ECP^980.0^Northwest Florida Beaches International Airport
+IQQ^980.0^Iquique / Diego Arac
+EAM^980.0^Najran
+MFE^980.0^McAllen Miller International Airport
+ZNZ^970.0^Zanzibar / Kisauni
+RBA^970.0^Rabat-Salé Airport
+YMM^970.0^Fort McMurray Airport
+PUF^960.0^Pau Pyrénées Airport
+EBL^960.0^Erbil International Airport
+GLT^960.0^Gladstone Airport
+LBV^960.0^Libreville
+POZ^950.0^Posnan/Lawica
+LWO^950.0^Lviv International Airport
+MJT^950.0^Mytilini Airport
+BRS^950.0^Bristol / Lulsgate
+TIV^950.0^Tivat Airport
+NAG^940.0^Nagpur Sonegaon
+MID^940.0^Merida / lic Manuel Crecencio
+CEK^940.0^Chelyabinsk-Balandino
+KRS^940.0^Kristiansand Airport, Kjevik
+BJM^920.0^Aéroport de Bujumbura Gakumbu
+NAT^920.0^Augusto Severo International Airport
+BIA^920.0^Bastia-Poretta
+HLA^920.0^Lanseria
+MIR^920.0^Monastir Habib Bourguiba International Airport
+JMK^920.0^Mikonos Island, Mikonos Airport
+EUG^910.0^Mahlon Sweet Field Airport
+LLW^910.0^Lilongwe International Airport
+OUA^910.0^Ouagadougou Airport
+FSC^910.0^Figari - Sud-Corse
+UFA^910.0^Ufa International Airport
+PSA^910.0^Pisa / S. Giusto
+MAO^900.0^Eduardo Gomes International Airport
+PUQ^900.0^Punta Arenas
+NSI^900.0^Yaounde
+TRZ^900.0^Tiruchirappalli International Airport
+LFT^890.0^Lafayette Regional Airport
+FUK^890.0^Fukuoka Airport
+CKG^890.0^Chongqing
+MZT^890.0^Mazatlan / G. Buelna
+TSR^890.0^Timisoara
+REG^890.0^Reggio Calabria Airport
+AVL^890.0^Asheville Regional Airport
+YXE^890.0^Saskatoon, Sask.
+ABE^880.0^Lehigh Valley International Airport
+ITM^880.0^Osaka International Airport
+CRW^880.0^Yeager Airport
+SUB^880.0^Juanda International Airport
+MLI^880.0^Quad City International Airport
+CGO^880.0^Zhengzhou
+SFA^870.0^Sfax–Thyna International Airport
+IXM^870.0^Madurai Airport
+FOR^870.0^Pinto Martins
+ZIH^870.0^Ixtapa-Zihuatanejo
+MLB^870.0^Melbourne International Airport
+VAA^860.0^Vaasa
+CRP^860.0^Corpus Christi International Airport
+SHV^860.0^Shreveport Regional Airport
+CHO^860.0^Charlottesville-Albemarle Airport
+SDK^850.0^Sandakan Airport
+DED^850.0^Dehradun Airport
+MMK^850.0^Murmansk Airport
+SID^850.0^Amílcar Cabral International Airport
+CID^850.0^The Eastern Iowa Airport
+VIX^850.0^Eurico de Aguiar Salles Airport
+BBI^850.0^Bhubaneswar
+KRN^850.0^Kiruna
+KKC^850.0^Khon Kaen
+HAU^840.0^Haugesund / Karmoy
+RAI^840.0^Praia International Airport
+LBB^840.0^Lubbock International Airport
+GRB^840.0^Austin Straubel International Airport
+PBO^840.0^Paraburdoo Airport
+IXU^840.0^Aurangabad Airport
+SLL^840.0^Salalah Airport
+GRK^830.0^Fort Hood, Robert Gray AAF Ft Hood
+SLP^830.0^San Luis Potosi, S. L. P.
+KZN^820.0^Kazan International Airport
+JUB^820.0^Juba Airport
+FWA^820.0^Fort Wayne International Airport
+GPS^820.0^Seymour Airport
+SHJ^820.0^Sharjah International Airport
+AGU^810.0^Aguascalientes, Ags.
+PSO^810.0^Pasto / Antonio Narin
+AAE^810.0^Rabah Bitat Annaba Airport
+AAL^810.0^Aalborg Airport
+PHC^810.0^Port Harcourt International Airport
+PNR^810.0^Pointe Noire Airport
+MSU^800.0^Maseru / Moshoeshoe
+GRJ^800.0^George
+BHO^800.0^Raja Bhoj Airport
+DAD^790.0^Đà Nẵng International Airport
+VFA^790.0^Victoria Falls
+MKY^790.0^Mackay Mo
+TSA^790.0^Sung-shan Chi-ch'ang
+GUW^790.0^Atyrau Airport
+APW^780.0^Faleolo International Airport
+TRS^780.0^Trieste – Friuli Venezia Giulia Airport
+CLJ^780.0^Cluj-Napoca International Airport
+MAF^780.0^Midland International Airport
+BSR^770.0^Basra International Airport
+BRM^770.0^Barquisimeto
+FAR^770.0^Hector International Airport
+AHO^770.0^Alghero
+XIY^770.0^Xi'an Xianyang International Airport
+EGE^770.0^Eagle County Regional Airport
+ATW^770.0^Outagamie County Airport
+BJA^770.0^Bejaia
+LBA^760.0^Leeds Bradford International Airport
+TJM^760.0^Roshchino International Airport
+SPC^760.0^La Palma Airport
+AES^750.0^Alesund / Vigra
+OMS^750.0^Tsentralny Airport
+WNZ^750.0^Wenzhou Yongqiang International Airport
+AEX^750.0^Alexandria International Airport
+HAS^740.0^Ḩā’il Airport
+UME^740.0^Umeå flygplats
+OAX^730.0^Oaxaca - Xoxocotlán International Airport
+KCH^730.0^Kuching Airport
+BIS^720.0^Bismarck Municipal Airport
+XRY^720.0^Jerez Airport
+GRZ^720.0^Graz Airport
+LGK^720.0^Langkawi
+NNG^710.0^Nanning
+AVP^710.0^Wilkes-Barre/Scranton International Airport
+TNG^710.0^Tangier Ibn Battouta Airport
+GBE^710.0^Seretse Khama International Airport
+ACA^700.0^Acapulco / G. Alvarez
+MFR^700.0^Rogue Valley International - Medford Airport
+CEI^700.0^Mae Fah Luang-Chiang Rai International Airport
+CRD^700.0^General Enrique Mosconi International Airport
+VLN^700.0^Zim Valencia
+PKC^690.0^Petropavlovsk-Kamchatskij
+DRO^690.0^Durango-La Plata County Airport
+GNV^690.0^Gainesville Regional Airport
+BDQ^690.0^Vadodara Airport
+IXZ^690.0^Veer Savarkar
+TLN^690.0^Toulon-Hyères Airport
+BJL^690.0^Banjul International Airport
+TUC^690.0^Tucuman Aerodrome
+GOJ^680.0^Nizhny Novgorod/Strigino
+GYN^680.0^Goiania Aeroporto
+IAS^680.0^Iași International Airport
+TLM^680.0^Tlemcen Zenata
+GJT^680.0^BLM Fire Center Heliport
+LAN^670.0^Lansing, Capital City Airport
+NKC^670.0^Nouakchott
+IPC^670.0^Mataveri International Airport
+KGI^670.0^Kalgoorlie Boulder Amo
+SMS^670.0^Sainte-Marie Aerodrome
+TRF^670.0^Sandefjord Airport, Torp
+FNA^660.0^Freetown-Lungi International Airport
+MRY^660.0^Monterey Peninsula Airport
+BMI^660.0^Central Illinois Regional Airport at Bloomington-Normal
+LLA^660.0^Luleå Airport
+QRO^650.0^Queretaro, Qro.
+SXR^650.0^Sheikh ul Alam Airport
+MHD^650.0^Mashhad
+AGS^650.0^Augusta Regional Airport
+JDH^650.0^Jodhpur Airport
+ASP^650.0^Alice Springs Airport
+SXF^650.0^Berlin Schönefeld Airport
+CIX^640.0^Chiclayo
+CFE^640.0^Clermont-Ferrand - Auvergne
+DLM^640.0^Dalaman
+RMA^630.0^Roma
+BHJ^620.0^Bhuj Airport
+BFN^620.0^Bloemfontein
+ZWS^620.0^Stuttgart DE Hbf Railway Stati
+CFU^620.0^Kerkyra Airport
+SKT^620.0^Sialkot Airport
+LPQ^620.0^Luang-Prabang
+OZZ^620.0^Ouarzazate Airport
+PIA^610.0^General Downing - Peoria International Airport
+VRA^610.0^Varadero, Matanzas
+CGQ^610.0^Changchun
+POP^610.0^Aeropuerto Internacional La Unión
+ARH^610.0^Arhangel'Sk
+RVN^610.0^Rovaniemi Airport
+RAR^610.0^Rarotonga International Airport
+TGZ^610.0^Ángel Albino Corzo International Airport
+SBZ^610.0^Sibiu International Airport
+SSG^610.0^Malabo/Fernando Poo
+OUL^610.0^Oulu Airport
+RST^600.0^Rochester, Rochester International Airport
+TIF^600.0^Taif
+SFJ^600.0^Sdr Stroemfjord
+TKU^600.0^Turku Airport
+LNK^600.0^Lincoln Municipal Airport
+PEE^600.0^Perm'/Bolshoe Savino
+BGR^600.0^Bangor International Airport
+BQN^600.0^Rafael Hernandez Airport
+MQP^600.0^Kruger Mpumalanga International Airport
+ADE^600.0^Aden
+EYP^600.0^El Yopal
+IXR^590.0^M. O. Ranchi
+DNK^590.0^Dnipropetrovsk International Airport
+CUL^590.0^Federal de Bachigualato International Airport
+ECN^590.0^Ercan International Airport
+AXM^590.0^Armenia / El Eden
+UUS^590.0^Yuzhno-Sakhalinsk Airport
+SKB^580.0^Golden Rock Airport
+MOT^580.0^Minot International Airport
+VDE^580.0^Hierro / Aeropuerto
+QSF^580.0^Ain Arnat Airport
+OAJ^580.0^Albert J. Ellis Airport
+VLI^580.0^Port Vila - Bauerfield International Airport
+SCO^580.0^Aktau Airport
+MLH^580.0^Bâle-Mulhouse
+HHH^570.0^Hilton Head Airport
+NLA^570.0^Ndola Airport
+YYG^570.0^Charlottetown, P. E. I.
+CJS^570.0^Abraham González International Airport
+RTM^570.0^Rotterdam The Hague Airport
+SBN^570.0^South Bend Regional Airport
+BME^570.0^Broome Airport
+WUH^570.0^Wuhan
+TER^570.0^Lajes Acores
+AJF^570.0^Al-Jawf Domestic Airport
+EIS^560.0^Terrance B. Lettsome International Airport
+IKT^560.0^Irkutsk Airport
+ISA^560.0^Mount Isa Airport
+MSO^560.0^Missoula International Airport
+YQT^550.0^Thunder Bay, Ont.
+RNS^550.0^Rennes - Saint-Jacques
+EVV^550.0^Evansville Regional Airport
+ORK^550.0^Cork Airport
+HDY^550.0^Tha Akatsayan Hat Yai
+DIY^540.0^Diyarbakir
+QKL^540.0^Cologne BONN DE Cologne Hbf Ra
+MOV^540.0^Moranbah Airport
+ISP^540.0^Long Island Mac Arthur Airport
+BON^540.0^Flamingo Airport
+VOG^540.0^Volgograd
+PMR^540.0^Palmerston North Airport
+ROK^530.0^Rockhampton Airport
+IMF^530.0^Imphal Airport
+NTL^530.0^Newcastle Airport
+DZA^530.0^Dzaoudzi / Pamanzi Mayotte
+YQM^530.0^Greater Moncton International Airport
+RTB^530.0^Roatan
+SOU^530.0^Southampton / Weather Centre
+LXR^520.0^Luxor
+LGQ^520.0^Nueva Loja Airport
+YNB^520.0^Yenbo
+NIM^510.0^Niamey-Aero
+LSC^510.0^La Serena
+MUN^510.0^Maturin
+NVA^510.0^Benito Salas Airport
+KIM^510.0^Kimberly Airport
+CAY^510.0^Cayenne-Rochambeau
+ZLO^500.0^Manzanillo International
+ASW^500.0^Aswan
+FNT^500.0^Bishop International Airport
+GCI^500.0^Guernsey Airport
+JNU^500.0^Juneau International Airport
+BNS^500.0^Barinas Airport
+FBM^500.0^Lubumbashi-Luano
+LVI^500.0^Livingstone Airport
+MGM^500.0^Dannelly Field
+KIS^500.0^Kisumu Airport
+BFL^500.0^Meadows Field
+PUY^500.0^Pula Airport
+TRC^500.0^Torreon International
+AAR^500.0^Tirstrup Airport
+FMO^490.0^Münster Osnabrück International Airport
+ZCO^490.0^Temuco
+ARI^490.0^Arica
+NQN^490.0^Neuquen Aerodrome
+MUB^480.0^Maun Airport
+MWZ^480.0^Mwanza Airport
+RCH^480.0^Almirante Padilla Airport
+TPP^480.0^Tarapoto
+KSU^480.0^Kristiansund Airport, Kvernberget
+GND^480.0^Maurice Bishop International Airport
+KGS^480.0^Kos Airport
+TCQ^470.0^Tacna
+INN^470.0^Innsbruck Airport
+LEI^470.0^Almería Airport
+TRI^470.0^Tri-Cities Regional Airport
+SBW^460.0^Sibu Airport
+DLH^460.0^Duluth International Airport
+JKH^460.0^Chios Airport
+OKA^460.0^Naha Airport
+YXU^450.0^London, Ont.
+YFC^450.0^Fredericton, N. B.
+SBH^450.0^Gustaf III Airport
+TET^450.0^Chingozi Airport
+LNZ^450.0^Linz Airport
+CSX^450.0^Changsha Huanghua International Airport
+KSC^450.0^Košice International Airport
+CFS^450.0^Coffs Harbour Airport
+ELQ^450.0^Prince Nayef bin Abdulaziz Regional Airport
+UKK^440.0^Ust-Kamennogorsk Airport
+DVO^440.0^Davao Airport
+KTW^440.0^Katowice International Airport
+TVC^430.0^Cherry Capital Airport
+JUL^430.0^Aeropuerto Internacional Inca Manco Cápac
+DYU^430.0^Dushanbe International Airport
+ELM^430.0^Elmira-Corning Regional Airport
+TLC^430.0^Toluca / Jose Maria
+YNT^430.0^Yantai Laishan International Airport
+GTF^430.0^Great Falls International Airport
+AZO^430.0^Kalamazoo-Battle Creek International Airport
+SLW^430.0^Saltillo, Coah.
+TAM^430.0^General Francisco Javier Mina International Airport
+SDR^430.0^Santander Airport
+NJF^430.0^Al Najaf
+LDB^420.0^Londrina Aeroporto
+RDM^420.0^Roberts Field-Redmond Municipal Airport
+AXU^420.0^Axum Airport
+VXE^420.0^San Pedro
+MEC^420.0^Eloy Alfaro International Airport
+CPE^420.0^Ing. Alberto Acuña Ongay International Airport
+HTI^420.0^Hamilton Island Airport
+HRB^420.0^Harbin
+UBP^420.0^Ubon Ratchathani Airport
+EMD^410.0^Emerald Airport
+CME^410.0^Ciudad Del Carmen
+BHI^410.0^Bahia Blanca Aerodrome
+MLN^410.0^Melilla
+IBE^410.0^Perales Airport
+POL^410.0^Pemba Airport
+TIR^410.0^Tirupati Airport
+YUM^410.0^Yuma International Airport
+BRO^410.0^Brownsville-South Padre Island International Airport
+DGO^410.0^Durango Airport
+LST^410.0^Launceston Airport
+RZE^400.0^Rzeszów-Jasionka Airport
+ROB^400.0^Roberts International Airport
+TMP^400.0^Tampere-Pirkkala Airport
+NUX^400.0^Novy Urengoy Airport
+LYR^400.0^Svalbard Lufthavn
+KBR^400.0^Kota Bharu
+GET^400.0^Geraldton Airport
+MLU^400.0^Monroe Regional Airport
+SDL^390.0^Sundsvall-Härnösand Airport
+IXS^390.0^Silchar Airport
+ROT^390.0^Rotorua Airport
+CPR^390.0^Natrona County International Airport
+CPC^390.0^Aeropuerto Chapelco
+ETH^390.0^Eilat Airport
+ADQ^390.0^Kodiak Airport
+LTN^390.0^Luton Airport
+LBU^390.0^Labuan Airport
+DHN^390.0^Dothan Regional Airport
+TBP^390.0^Tumbes
+MRA^390.0^Misratah Airport
+BWN^390.0^Brunei
+BJR^390.0^Bahir Dar Airport
+NPL^380.0^New Plymouth Airport
+ASR^380.0^Kayseri / Erkilet
+NPE^380.0^Hawke's Bay Airport
+PDP^380.0^Capitan Corbeta
+OCC^380.0^Francisco De Orellana Airport
+TNA^380.0^Yaoqiang
+LAE^380.0^Lae Nadzab Airport
+ITH^380.0^Ithaca Tompkins Regional Airport
+TSN^380.0^Tianjin Binhai International Airport
+YNJ^380.0^Yanji Chaoyangchuan Airport
+VUP^380.0^Valledupar / Alfonso Lopez
+NBC^380.0^Begishevo Airport
+EJA^370.0^Yariguíes Airport
+SCE^370.0^University Park Airport
+LFW^370.0^Lome
+FLO^370.0^Florence Regional Airport
+RKT^370.0^Ras Al Khaimah International Airport
+IVL^370.0^Ivalo Airport
+FRO^360.0^Florø Airport
+SCU^360.0^Santiago De Cuba, Oriente
+STN^360.0^Stansted Airport
+STX^360.0^Henry E Rohlsen Airport
+HFT^360.0^Hammerfest Airport
+YQQ^360.0^Comox, B. C.
+JUJ^360.0^Gobernador Horacio Guzmán International Airport
+BEL^350.0^Belém/Val de Cans–Júlio Cezar Ribeiro International Airport
+SYX^350.0^Sanya Phoenix International Airport
+YQU^350.0^Grande Prairie Airport
+JIB^350.0^Djibouti \ Ambouli
+HRL^350.0^Rio Grande Valley International Airport
+FLG^350.0^Flagstaff Pulliam Airport
+IXL^350.0^Leh Kushok Bakula Rimpochee Airport
+XER^350.0^Strasbourg FR Bus Station
+EAS^350.0^San Sebastián Airport
+SEB^350.0^Sebha
+AJL^350.0^Aizawl IN Lengpui
+XFW^350.0^Hamburg-Finkenwerder
+BHE^350.0^Woodbourne Airport
+NDJ^350.0^N'Djamena International Airport
+EOH^340.0^Enrique Olaya Herrera Airport
+GGT^340.0^George Town Exuma International Airport
+CJU^340.0^Jeju International Airport
+PAZ^340.0^El Tajín National Airport
+BET^340.0^Bethel Airport
+MZL^340.0^La Nubia Airport
+STD^340.0^Sto. Domingo
+PEM^340.0^Puerto Maldonado
+GFK^340.0^Grand Forks International Airport
+YXJ^340.0^Fort St John, B. C.
+CIT^340.0^Shymkent
+CRK^340.0^Clark International Airport
+SMI^340.0^Samos Airport
+SAF^340.0^Santa Fe Municipal Airport
+NWI^340.0^Norwich International Airport
+CSG^330.0^Columbus Metropolitan Airport
+TOF^330.0^Bogashevo Airport
+MUX^330.0^Multan
+HGU^330.0^Mount Hagen Kagamuga Airport
+EWN^330.0^Coastal Carolina Regional Airport
+SPN^330.0^Francisco C. Ada International Airport
+ASF^330.0^Astrakhan
+UTH^330.0^Udon Thani International Airport
+YCD^330.0^Nanaimo Airport
+KKN^330.0^Kirkenes
+YXS^330.0^Prince George, B. C.
+GZT^330.0^Gaziantep
+HME^330.0^Hassi-Messaoud
+EVE^320.0^Evenes
+SWF^320.0^Stewart International Airport
+BHH^320.0^Bisha
+ALH^320.0^Albany Aerodrome
+PQQ^320.0^Port Macquarie Airport
+KTT^320.0^Kittila
+NJC^320.0^Nizhnevartovsk Airport
+PLQ^320.0^Palanga International Airport
+KUO^310.0^Kuopio Airport
+PGF^310.0^Perpignan-Rivesaltes
+INV^310.0^Inverness Dalcross Airport
+VIL^310.0^Dakhla Airport
+IXJ^310.0^Jammu Airport
+SGC^310.0^Surgut
+AKX^310.0^Aktjubinsk
+IXA^310.0^Agartala Airport
+TWU^310.0^Tawau Airport
+LEA^310.0^Learmonth
+VGA^310.0^Vijayawada Airport
+MLM^310.0^Morelia New
+ABS^310.0^Abu Simbel
+MQX^300.0^Alula Aba Nega Airport
+YZF^300.0^Yellowknife Airport
+VCP^300.0^Campinas Aeroporto
+LYH^300.0^Lynchburg Regional Airport/Preston Glenn Field
+ABT^300.0^Al Baha
+SBP^300.0^San Luis Obispo County Airport
+DIB^300.0^Dibrugarh Airport
+HDN^300.0^Yampa Valley Airport
+BUS^300.0^Batumi International Airport
+SLZ^300.0^Marechal Cunha Machado International Airport
+SCN^300.0^Saarbrücken Airport
+RNB^300.0^Ronneby Airport
+ABX^300.0^Albury Airport
+VLD^300.0^Valdosta Regional Airport
+LOP^300.0^Lombok International Airport
+BGM^290.0^Binghamton Regional Airport-Edwin A Link Field
+VBY^290.0^Visby Airport
+PIX^290.0^Pico Airport
+CJA^290.0^Cajamarca
+BTU^290.0^Bintulu Airport
+ERI^290.0^Erie International Airport
+QQS^290.0^London GB St Pancras Intl Rail
+SFT^290.0^Skellefteå Airport
+PPG^290.0^Pago Pago International Airport
+CLY^290.0^Calvi - Sainte-Catherine
+ISU^290.0^Sulaymaniyah International Airport
+FSM^290.0^Fort Smith Municipal Airport
+CWA^290.0^Central Wisconsin Airport
+BPS^290.0^Porto Seguro
+KTN^290.0^Ketchikan International Airport
+ILO^290.0^Iloilo International Airport
+REX^290.0^Reynosa International
+JHM^290.0^Kapalua Airport
+ATZ^280.0^Asyut
+AXD^280.0^Alexandroupoli Airport
+BOB^280.0^Bora-Bora Airport
+KAO^280.0^Kuusamo Airport
+LXS^280.0^Limnos Airport
+URT^280.0^Surat Thani Airport
+WGA^280.0^Wagga Airport
+AGH^280.0^Ängelholm-Helsingborg Airport
+CGY^280.0^Lumbia Airport
+PSS^280.0^Posadas Airport
+KZO^280.0^Kyzylorda Airport
+YIW^270.0^Yiwu Airport
+NOZ^270.0^Spichenkovo Airport
+UAQ^270.0^Domingo Faustino Sarmiento Airport
+UDI^270.0^Uberlandia
+MAM^270.0^Matamoros International
+NDR^270.0^Nador
+TAP^270.0^Tapachula International Airport
+PAD^270.0^Paderborn Lippstadt Airport
+WEH^270.0^Weihai Airport
+UTN^270.0^Upington Airport
+TZX^270.0^Trabzon
+FRS^270.0^Tikal
+TPS^270.0^Vincenzo Florio Airport Trapani-Birgi
+YYD^270.0^Smithers Airport
+ISN^270.0^Sloulin Field International Airport
+ASM^270.0^Asmara
+LSP^270.0^Paraguana / Josefa
+CGR^270.0^Campo Grande Aeroporto
+BCD^270.0^Bacolod Silay International Airport
+LNY^270.0^Lanai Airport
+LPI^260.0^Linkoping / Saab
+MTT^260.0^Minatitlan
+ASB^260.0^Ashgabat International Airport
+PFO^260.0^Paphos International Airport
+SDD^260.0^Lubango Airport
+RYK^260.0^Shaikh Zaid Airport
+KEJ^260.0^Kemerovo
+YSB^260.0^Greater Sudbury Airport
+TCO^260.0^La Florida Airport
+CEN^260.0^Ciudad Obregon
+BNN^250.0^Bronnoysund / Bronnoy
+PNA^250.0^Pamplona Airport
+HIR^250.0^Honiara-Henderson International Airport
+RJA^250.0^Rajahmundry Airport
+IDA^250.0^Fanning Field
+VVC^250.0^Villavicencio / Vanguardia
+SVD^250.0^Arnos Vale
+MDQ^250.0^Mar Del Plata
+HAH^250.0^Prince Said Ibrahim International Airport
+NGB^250.0^Ningbo Lishe International Airport
+MTJ^250.0^Montrose Regional Airport
+HMB^250.0^Sohag
+SYZ^250.0^Shiraz
+KNX^250.0^Kununurra Airport
+JJN^250.0^Quanzhou Jinjiang Airport
+CMI^250.0^University of Illinois Willard Airport
+JGA^240.0^Jamnagar Airport
+ROR^240.0^Roman Tmetuchl International Airport
+NLK^240.0^Norfolk Island Airport
+CWL^240.0^Cardiff International Airport
+GWT^240.0^Westerland / Sylt
+LAW^240.0^Lawton Municipal Airport
+MCY^240.0^Maroochydore Airport
+AQJ^240.0^Maţār al `Aqabah
+MOL^240.0^Molde / Aro
+BOJ^240.0^Burgas Airport
+LCH^240.0^Lake Charles Regional Airport
+MGQ^240.0^Mogadiscio
+SFG^240.0^L'Espérance Airport
+LAO^240.0^Laoag
+DMU^240.0^Dimapur Airport
+FDH^230.0^Friedrichshafen
+HLZ^230.0^Hamilton Airport
+NSN^230.0^Nelson Airport
+CLL^230.0^Easterwood Field
+KVA^230.0^Kavala International Airport
+LRD^230.0^Laredo International Airport
+XMB^230.0^Dubai AE Marina Mall Ey Bus St
+LRM^230.0^La Romana
+KLU^230.0^Klagenfurt Airport
+RAO^230.0^Leite Lopes Airport
+MOQ^230.0^Morondava
+COU^230.0^Columbia Regional Airport
+KWL^230.0^Guilin
+RGI^230.0^Rangiroa Airport
+MQM^230.0^Mardin Airport
+HRK^230.0^Kharkiv International Airport
+WRE^230.0^Whangarei Airport
+SDE^230.0^Santiago Del Estero Aero.
+FEZ^230.0^Fes-Saïss Airport
+GDZ^230.0^Gelendzhik Airport
+MQL^230.0^Mildura Airport
+BSK^220.0^Biskra Airport
+APL^220.0^Nampula
+YSJ^220.0^Saint John, N. B.
+MES^220.0^Medan / Polonia
+UGC^220.0^Urgench Airport
+YDF^220.0^Deer Lake, Nfld.
+BHU^220.0^Bhaunagar
+MQN^220.0^Mo i Rana Airport, Røssvoll
+WVB^220.0^Walvis Bay Airport
+SJT^220.0^Mathis Field
+SUV^220.0^Nausori International Airport
+FAE^220.0^Vágar Airport
+TYR^220.0^Tyler Pounds Field
+LDE^220.0^Tarbes-Lourdes-Pyrénées Airport
+LRT^220.0^Lorient - Lann-Bihoué
+BBA^220.0^Balmaceda Airport
+LDU^210.0^Lahad Datu Airport
+AFA^210.0^San Rafael Aerodrome
+KHG^210.0^Kashi
+AOI^210.0^Ancona Falconara Airport
+RGL^210.0^Rio Gallegos Aerodrome
+USN^210.0^Ulsan Airport
+OME^210.0^Nome Airport
+UTT^210.0^K. D. Matanzima Airport
+GIS^210.0^Gisborne Airport
+TOL^210.0^Toledo Express Airport
+PCL^210.0^Pucallpa
+TLE^210.0^Tulear
+LBD^210.0^Khudjand International Airport
+VPY^210.0^Chimoio
+BLI^210.0^Bellingham International Airport
+FCA^210.0^Glacier Park International Airport
+BFS^210.0^Belfast / Aldergrove Airport
+AZA^210.0^Phoenix-Mesa Gateway Airport
+MBS^210.0^MBS International Airport
+RAE^210.0^Arar
+IVC^210.0^Invercargill Airport
+YKA^210.0^Kamloops Airport
+RES^210.0^Resistencia Aero.
+XNB^210.0^Dubai AE Chelsea Twr Ey Bus St
+ACK^200.0^Nantucket Memorial Airport
+LAP^200.0^La Paz International Airport
+SCQ^200.0^Santiago de Compostela Airport
+KDV^200.0^Namalata
+SBY^200.0^Salisbury-Wicomico County Regional Airport
+IMP^200.0^Imperatriz
+DGT^200.0^Dumaguete
+PXO^200.0^Porto Santo Airport
+ELH^200.0^North Eleuthera
+HTY^200.0^Hatay Airport
+REL^200.0^Almirante Marcos A. Zar Airport
+YXX^190.0^Abbotsford International Airport
+MXL^190.0^Mexicali
+SZZ^190.0^Szczecin-Goleniów Airport
+TRG^190.0^Tauranga Airport
+STW^190.0^Stavropol Shpakovskoye Airport
+URC^190.0^Urum-Qi / Diwopu
+ETZ^190.0^Metz-Nancy-Lorraine Airport
+SIT^190.0^Sitka Rocky Gutierrez Airport
+MTS^190.0^Manzini - Matsapha Airport
+DPO^190.0^Devonport Airport
+ACY^190.0^Atlantic City International Airport
+HUY^190.0^Humberside International airport
+BGY^190.0^Il Caravaggio International Airport
+DMS^190.0^Dammam SA Sabtco Bus Station
+XYD^190.0^Lyon Part-Dieu
+BDB^190.0^Bundaberg Airport
+LSE^190.0^La Crosse Municipal Airport
+SCW^190.0^Syktyvkar Airport
+CGB^190.0^Cuiaba Aeroporto
+PPP^180.0^Proserpine Airport
+RCB^180.0^Richard Bay
+SGU^180.0^Saint George Municipal Airport
+PWQ^180.0^Pavlodar Airport
+PRI^180.0^Praslin Island Airport
+GIB^180.0^Gibraltar Airport
+UUD^180.0^Ulan-Ude
+GZP^180.0^Gazipaşa Airport
+IUE^180.0^Alofi / Niue
+MGB^180.0^Mount Gambier Airport
+MHK^180.0^Manhattan Regional Airport
+MME^180.0^Durham Tees Valley Airport
+HOV^180.0^Ørsta-Volda lufthamn, Hovden
+HIJ^180.0^Hiroshima Airport
+ACT^180.0^Waco Regional Airport
+PKZ^180.0^Pakse International Airport
+KUA^180.0^Kuantan
+URY^180.0^Guriat
+URA^180.0^Uralsk
+BVC^180.0^Rabil Airport
+OSD^180.0^Åre Östersund Airport
+TOE^180.0^Tozeur–Nefta International Airport
+TMM^180.0^Tamatave
+ENA^170.0^Kenai Municipal Airport
+EDL^170.0^Eldoret International Airport
+EXT^170.0^Exeter Airport
+DNZ^170.0^Cardak
+JHB^170.0^Johore Bharu / Senai
+FKB^170.0^Baden Airpark
+LSI^170.0^Sumburgh Airport
+YQX^170.0^Gander Int. Airport, Nfld.
+VOZ^170.0^Voronez
+LKN^170.0^Leknes Airport
+PZB^170.0^Pieter Maritzburg
+RKS^170.0^Rock Springs-Sweetwater County Airport
+YAM^170.0^Sault Ste Marie, Ont.
+LMP^170.0^Lampedusa Airport
+YYB^170.0^North Bay, Ont.
+YXY^170.0^Whitehorse, Y. T.
+SRG^160.0^Achmad Yani International Airport
+TRW^160.0^Bonriki International Airport
+DIK^160.0^Dickinson Municipal Airport
+IOM^160.0^Isle Of Man / Ronaldsway Airport
+DIR^160.0^Dire Dawa
+VIG^160.0^El Vigia / Perez Alph
+FRW^160.0^Francistown Airport
+OGZ^160.0^Beslan Airport
+RMI^160.0^Federico Fellini International Airport
+KLO^160.0^Kalibo Airport
+KME^160.0^Kamembe
+YQG^160.0^Windsor, Ont.
+CAB^160.0^Cabinda Airport
+BTM^160.0^Bert Mooney Airport
+DBO^160.0^Dubbo
+HVB^160.0^Hervey Bay Airport
+EAT^160.0^Pangborn Field
+THE^160.0^Teresina
+PLO^160.0^Port Lincoln Airport
+SON^160.0^Pekoa Airport Santo
+SNU^160.0^Abel Santamaría Airport
+LET^160.0^Alfredo Vásquez Cobo International Airport
+ALF^160.0^Alta Lufthavn
+KGF^160.0^Karaganda
+HLN^160.0^Helena Regional Airport
+EPR^150.0^Esperance Airport
+SWA^150.0^Shantou
+PIH^150.0^Pocatello Regional Airport
+LMM^150.0^Los Mochis International Airport
+UEL^150.0^Quelimane Airport
+ANR^150.0^Antwerp International Airport
+TMW^150.0^Tamworth Airport
+CBQ^150.0^Calabar
+XDB^150.0^Gare de Lille - Europe
+ARK^150.0^Arusha Airport
+OMR^150.0^Oradea
+ZCL^150.0^Zacatecas Airport
+ABI^150.0^Abilene Regional Airport
+BLZ^150.0^Chileka International Airport
+VII^150.0^Vinh Airport
+SPI^150.0^Abraham Lincoln Capital Airport
+ULV^150.0^Ulyanovsk Baratayevka Airport
+SRE^150.0^Sucre
+ESM^150.0^Esmeraldas-Tachina
+NVT^150.0^Ministro Victor Konder International Airport
+LYP^150.0^Faisalabad International Airport
+YTS^140.0^Timmins, Ont.
+CBT^140.0^Catumbela Airport
+MPH^140.0^Godofredo P. Ramos Airport
+WUX^140.0^Wuxi Airport
+WLS^140.0^Hihifo Airport
+ARM^140.0^Armidale Airport
+HVN^140.0^Tweed-New Haven Airport
+BKG^140.0^Branson Airport
+PPN^140.0^Guillermo León Valencia Airport
+MKK^140.0^Molokai Airport
+PLU^140.0^Carlos Drummond de Andrade Airport
+GTR^140.0^Golden Triangle Regional Airport
+HAK^140.0^Meilan International Airport
+MAG^140.0^Madang Airport
+GOV^140.0^Gove Airport
+MQF^140.0^Magnitogorsk International Airport
+MDC^140.0^Menado / Dr. Sam Ratulangi
+PGV^140.0^Pitt-Greenville Airport
+FTU^140.0^Fort-Dauphin
+MCZ^140.0^Maceio Aeroporto
+YGK^140.0^Kingston/Norman Rogers Airport
+DTM^140.0^Dortmund / Wickede
+RIY^140.0^Riyan International Airport
+STS^140.0^Sonoma County Airport
+SFL^140.0^São Filipe Airport
+TAC^140.0^Tacloban
+DOM^140.0^Melville Hall Airport
+CNQ^140.0^Corrientes Aero.
+ACV^140.0^Arcata-Eureka Airport
+EMA^140.0^East Midlands Airport
+REN^140.0^Orenburg / Tsentralny
+LBS^140.0^Labasa Airport
+SKD^140.0^Samarkand Airport
+KOK^140.0^Kruunupyy
+YXT^140.0^Terrace, B. C.
+SJP^140.0^São José do Rio Preto Airport
+HJR^130.0^Khajuraho Airport
+TXK^130.0^Texarkana Regional Airport
+LTO^130.0^Loreto, B. C. S.
+GES^130.0^General Santos International Airport
+BEW^130.0^Beira
+YBL^130.0^Campbell River Airport
+GEV^130.0^Gällivare Airport
+AHU^130.0^Cherif Al Idrissi Airport
+DEA^130.0^Dera Ghazi Khan Airport
+ROS^130.0^Rosario International Airport
+HFE^130.0^Hefei Luogang International Airport
+OER^130.0^Örnskoldsvik flygplats
+BLJ^130.0^Batna
+IPT^130.0^Williamsport-Lycoming County Airport
+NOS^130.0^Fascene Nosy Be Airport
+IOA^130.0^Ioannina National Airport
+KWE^130.0^Guiyang Longdongbao International Airport
+SPS^130.0^Sheppard Air Force Base/Wichita Falls Municipal Airport
+BNK^130.0^Ballina Byron Gateway Airport
+ROW^130.0^Roswell Industrial Air Center Airport
+AZR^130.0^Adrar
+TTN^130.0^Trenton Mercer Airport
+SLY^130.0^Salekhard Airport
+PXM^130.0^Puerto Escondido International Airport
+HTA^130.0^Chita
+ENU^130.0^Enugu Airport
+HTS^130.0^Tri-State Airport
+MOZ^120.0^Moorea-Temae Airport
+PNL^120.0^Pantelleria Airport
+HLM^120.0^Park Township Airport
+LZH^120.0^Bailian Airport
+RYG^120.0^Rygge
+MYW^120.0^Mtwara Airport
+BBK^120.0^Kasane Airport
+AJU^120.0^Aracaju Aeroporto
+TMS^120.0^S. Tome
+UIP^120.0^Quimper-Pluguffan
+VQS^120.0^Camp Garcia Vieques Airport
+SSJ^120.0^Sandnessjøen Airport, Stokka
+SFN^120.0^Sauce Viejo Airport
+QOW^120.0^Sam Mbakwe International Airport
+YWK^120.0^Wabush Airport
+BAX^120.0^Barnaul Airport
+NHA^120.0^Nha Trang
+ZFV^120.0^Philadelphia PA US Railway Sta
+GKA^120.0^Goroka Airport
+YQY^120.0^Sydney, N. S.
+BDU^120.0^Bardufoss Airport
+HUX^120.0^Aeropuerto Bahias De Huatulco
+OSM^120.0^Mosul International Airport
+YVO^120.0^Val-d'Or Airport
+YYF^120.0^Penticton Regional Airport
+TUO^120.0^Taupo Airport
+LPL^120.0^Liverpool Airport
+RFP^120.0^Raiatea Airport
+BDO^110.0^Husein Sastranegara International Airport
+JKG^110.0^Jönköping Airport
+BRW^110.0^Wiley Post-Will Rogers Memorial Airport
+TAI^110.0^Taiz
+INH^110.0^Inhambane
+WYA^110.0^Whyalla Airport
+TDD^110.0^Trinidad
+NMA^110.0^Namangan Airport
+SZF^110.0^Samsun-Çarşamba Airport
+SKN^110.0^Storkmarknes / Skagen
+IOS^110.0^Ilheus Aeroporto
+FMA^110.0^Formosa Aerodrome
+ANX^110.0^Andøya Andenes Airport
+KHS^110.0^Khassab
+CFR^110.0^Caen-Carpiquet
+ASO^110.0^Assosa / Asosa
+ETR^110.0^Santa Rosa Regional Airport
+MJF^110.0^Mosjøen Airport, Kjærstad
+OLP^110.0^Olympic Dam Airport
+RMQ^110.0^Taichung Airport
+MJV^110.0^Murcia-San Javier Airport
+OSS^110.0^Osh Airport
+LOH^110.0^Catamayo / Camilo Ponce Enriquez
+AKN^110.0^King Salmon Airport
+OND^110.0^Ondangwa Airport
+ZBF^110.0^Bathurst
+SJZ^100.0^São Jorge Airport
+MMO^100.0^Maio Airport
+MLO^100.0^Milos
+VNX^100.0^Vilanculos
+MQT^100.0^Sawyer International Airport
+SHW^100.0^Sharurah
+KSD^100.0^Karlstad
+MHH^100.0^Marsh Harbour Airport
+HOG^100.0^Holguin Civ / Mil
+WEI^100.0^Weipa Airport
+SNR^100.0^Saint-Nazaire - Montoir
+BBO^100.0^Berbera Airport
+MAB^100.0^Maraba
+HAD^100.0^Halmstad Airport
+LWB^100.0^Greenbrier Valley Airport
+KAN^100.0^Kano
+KAJ^100.0^Kajaani Airport
+AGT^100.0^Aeropuerto Guarany
+TAY^100.0^Tartu lennujaam
+PDG^100.0^Minangkabau International Airport
+PAS^100.0^Paros Community Airport
+OZH^100.0^Zaporizhzhia / Mokraya
+TVU^100.0^Matei Airport
+CRL^100.0^Brussels South Charleroi Airport
+AOK^100.0^Karpathos Airport
+RNN^100.0^Rønne
+GCC^100.0^Gillette-Campbell County Airport
+OAG^100.0^Orange Airport
+DIU^100.0^Diu Airport
+SVJ^100.0^Svolvaer / Helle
+BQS^100.0^Ignatyevo Airport
+MAU^100.0^Maupiti Airport
+GOP^100.0^Gorakhpur Airport
+CMX^90.0^Houghton County Memorial Airport
+EAR^90.0^Kearney Municipal Airport
+BHV^90.0^Bahawalpur Airport
+FMN^90.0^Four Corners Regional Airport
+HDS^90.0^Hoedspruit
+QYG^90.0^Railway Germany DE Railway Ger
+VDS^90.0^Vadsø Airport
+FDE^90.0^Førde Airport, Bringeland
+VAN^90.0^Van Ferit Melen Airport
+PQI^90.0^Northern Maine Regional Airport at Presque Isle
+GUC^90.0^Gunnison County Airport
+TAE^90.0^Daegu International Airport
+DUT^90.0^Unalaska Airport
+PBC^90.0^Puebla International Airport
+MVY^90.0^Martha's Vineyard Airport
+HID^90.0^Horn Island Airport
+VAI^90.0^Vanimo Airport
+DAM^90.0^Damascus Int. Airport
+GDQ^90.0^Gondar
+BQK^90.0^Brunswick Golden Isles Airport
+OTZ^90.0^Ralph Wien Memorial Airport
+GHA^90.0^Ghardaia
+UIB^90.0^El Caraño Airport
+UKS^90.0^Sevastopol International Airport
+WHK^90.0^Whakatane Airport
+CYS^90.0^Cheyenne Airport
+KEM^90.0^Kemi
+YHM^90.0^Hamilton Airport
+YKS^90.0^Yakutsk Airport
+ABA^90.0^Abakan International Airport
+ISG^90.0^Ishigaki Airport
+XDS^90.0^Ottawa ON CA Railway Station
+ZAD^90.0^Zadar
+ZAL^90.0^Pichoy Airport
+MCP^90.0^Macapa
+KWJ^90.0^Kwangju Ab
+ABY^90.0^Southwest Georgia Regional Airport
+ZBL^90.0^Biloela
+JOE^90.0^Joensuu Airport
+MDG^90.0^Mudanjiang Hailang International Airport
+KOI^90.0^Kirkwall Airport
+PVK^80.0^Aktion Airport
+LIG^80.0^Limoges-Bellegarde
+NAL^80.0^Nalchik Airport
+LFR^80.0^La Fria
+MHQ^80.0^Mariehamn Airport
+LOK^80.0^Lodwar
+VRK^80.0^Varkaus Airport
+TEE^80.0^Tebessa
+AGX^80.0^Agatti Airport
+PTG^80.0^Pietersburg
+INI^80.0^Nis
+CBO^80.0^Awang Airport
+PHW^80.0^Hendrik Van Eck Airport
+JLN^80.0^Joplin Regional Airport
+WAE^80.0^Wadi al-Dawasir Domestic Airport
+GXF^80.0^Sayun
+UET^80.0^Quetta International Airport
+JAL^80.0^Lencero
+LUO^80.0^Luena Airport
+LUQ^80.0^San Luis Aerodrome
+LZC^80.0^Lázaro Cárdenas Airport
+TBU^80.0^Fuaʻamotu International Airport
+GRI^80.0^Central Nebraska Regional Airport
+EFL^80.0^Cephalonia International Airport
+DIL^80.0^Nicolau Lobato Airport
+KLR^80.0^Kalmar
+KOJ^80.0^Kagoshima Airport
+KYA^80.0^Konya Airport
+LAQ^80.0^La Abraq Airport
+CLQ^80.0^Colima
+CLD^80.0^McClellan-Palomar Airport
+TAK^80.0^Takamatsu Airport
+KOE^80.0^Kupang / El Tari
+KHN^80.0^Nanchang
+ZAM^80.0^Zamboanga
+RGA^80.0^Hermes Quijada International Airport
+SHR^80.0^Sheridan County Airport
+SMA^80.0^Santa Maria Acores
+KVG^80.0^Kavieng Airport
+OTH^70.0^Southwest Oregon Regional Airport
+GFF^70.0^Griffith Airport
+SUJ^70.0^Satu Mare
+LWS^70.0^Lewiston – Nez Perce County Airport
+SOG^70.0^Sogndal / Haukåsen
+ZOS^70.0^Cañal Bajo Carlos - Hott Siebert Airport
+SUN^70.0^Friedman Memorial Airport
+BRD^70.0^Brainerd-Crow Wing County Regional Airport
+ART^70.0^Watertown International Airport
+GNY^70.0^GAP Şanlıurfa Havaalanı
+CVM^70.0^Ciudad Victoria Airport
+LPT^70.0^Lampang
+RRS^70.0^Røros Airport
+SUX^70.0^Sioux Gateway Airport/Col. Bud Day Field
+AJR^70.0^Arvidsjaur
+LEB^70.0^Lebanon Municipal Airport
+LDH^70.0^Lord Howe Island Airport
+QRW^70.0^Warri Airport
+TEX^70.0^Telluride Regional Airport
+CKS^70.0^Carajas / Maraba
+LHW^70.0^Lanzhou Zhongchuan Airport
+LAI^70.0^Lannion
+PNI^70.0^Pohnpei International Airport
+JLR^70.0^Jabalpur Airport
+PLN^70.0^Pellston Regional Airport of Emmet County
+JRH^70.0^Jorhat Airport
+JPA^70.0^Joao Pessoa
+BHB^70.0^Hancock County-Bar Harbor Airport
+CBH^70.0^Bechar
+RAB^70.0^Tokua Airport
+CBB^70.0^Jorge Wilsterman
+PKE^70.0^Parkes Airport
+NCU^70.0^Nukus / Karakalpakstan
+NGS^70.0^Nagasaki Airport
+WYS^70.0^Yellowstone Airport
+VXO^70.0^Växjö Småland Airport
+NBE^70.0^Enfidha – Hammamet International Airport
+BHQ^70.0^Broken Hill Airport
+GUR^70.0^Gurney Airport
+HGA^70.0^Hargeisa
+HOR^70.0^Horta Airport
+NAV^70.0^Nevsehir
+BHK^70.0^Bukhara Airport
+BIM^70.0^Alice Town, Bimini
+YKF^70.0^Waterloo Well
+NLD^70.0^Nuevo Laredo International
+HUH^70.0^Huahine – Fare Airport
+WAG^60.0^Wanganui Airport
+VLL^60.0^Valladolid Airport
+TBZ^60.0^Forūdgāh-e Beyn ol Melalī-ye Tabrīz
+NDG^60.0^Qiqihar Sanjiazi Airport
+CFK^60.0^Chlef International Airport
+YYR^60.0^Goose Bay Airport
+HKK^60.0^Hokitika Aerodrome
+AGF^60.0^Agen-la-Garenne
+YCG^60.0^Castlegar Airport
+TBN^60.0^Waynesville-St. Robert Regional Airport
+DWC^60.0^Dubai AE Al Maktoum Intl
+JOI^60.0^Joinville
+MYA^60.0^Moruya Airport
+AMH^60.0^Arba Minch
+CIY^60.0^Comiso Airport
+ALW^60.0^Walla Walla Regional Airport
+BCM^60.0^Bacău International Airport
+SVP^60.0^Bie Silva Porto
+CYB^60.0^Gerrard Smith Airport
+LEH^60.0^Le Havre-Octeville
+POR^60.0^Pori Airport
+TJU^60.0^Kulob Airport
+PVH^60.0^Governador Jorge Teixeira de Oliveira International Airport
+YXC^60.0^Cranbrook, B. C.
+GRW^60.0^Graciosa Airport
+PSE^60.0^Mercedita Airport
+CEG^60.0^Hawarden
+NAO^60.0^Nanchong Airport
+PPS^60.0^Puerto Princesa
+JYV^60.0^Jyvaskyla
+ESC^60.0^Delta County Airport
+ILG^60.0^New Castle Airport
+LMT^60.0^Klamath Falls Airport
+TGG^60.0^Sultan Mahmud Airport
+VSG^60.0^Luhansk International Airport
+KGC^60.0^Kingscote Airport
+ELU^60.0^Guemar Airport
+MZH^60.0^Merzifon
+TEB^60.0^Teterboro Airport
+CIC^60.0^Chico Municipal Airport
+MVR^60.0^Salak Airport
+BGF^60.0^Bangui
+PUU^60.0^Puerto Asis
+ZDH^60.0^Basel SBB Railway Station
+TWF^60.0^Twin Falls Airport
+BHY^60.0^Beihai Fucheng Airport
+BPT^60.0^Jefferson County Airport
+HOD^60.0^Hodeidah
+MBI^60.0^Mbeya Airport
+SRP^60.0^Stord / Soerstokken
+APO^60.0^Antonio Roldán Betancourt Airport
+AQI^60.0^Qaysumah
+KSY^60.0^Kars
+KRO^60.0^Kurgan Airport
+KRP^60.0^Karup Airport
+DGE^60.0^Mudgee Airport
+GOH^60.0^Nuuk Airport
+MOD^60.0^Modesto City-County Airport
+DCM^60.0^Castres–Mazamet Airport
+VHC^60.0^Saurimo Airport
+SCY^60.0^San Cristóbal Airport
+TYN^60.0^Taiyuan Wusu International Airport
+VCS^60.0^Con Dao Airport
+NVK^60.0^Narvik Airport, Framnes
+SVB^60.0^Sambava Airport
+GRO^60.0^Aeroport de Girona - Costa Brava
+BPN^60.0^Sepinggan International Airport
+GDX^60.0^Sokol Airport
+KNS^60.0^King Island Airport
+LRS^60.0^Leros
+JHG^60.0^Xishuangbanna Gasa Airport
+DLG^60.0^Dillingham Airport
+NVI^60.0^Navoi International Airport
+OBO^60.0^Tokachi-Obihiro Airport
+AOE^60.0^Anadolu University Airport
+DBQ^60.0^Dubuque Regional Airport
+MRZ^50.0^Moree Airport
+SKE^50.0^Skien-Geiteryggen
+LGP^50.0^Legaspi
+KVD^50.0^Gyanca Airport
+EUN^50.0^Hassan I Airport
+ZTH^50.0^Zakinthos Airport
+CGI^50.0^Cape Girardeau Municipal Airport
+BKZ^50.0^Bukoba Airport
+CZE^50.0^José Leonardo Chirino Airport
+ZAZ^50.0^Zaragoza Airport
+KSH^50.0^Kermanshah
+RHI^50.0^Rhinelander-Oneida County Airport
+RUT^50.0^Rutland - Southern Vermont Regional Airport
+YYE^50.0^Fort Nelson Airport
+HMA^50.0^Hanty-Mansijsk
+MLX^50.0^Malatya / Erhac
+RIW^50.0^Riverton Regional Airport
+AGR^50.0^Agra Airport
+YCB^50.0^Cambridge Bay Airport
+STV^50.0^Surat Airport
+SGD^50.0^Sønderborg Airport
+RGK^50.0^Gorno-Altaysk Airport
+WSZ^50.0^Westport
+RDZ^50.0^Rodez-Marcillac Airport
+MYD^50.0^Malindi Airport
+EGO^50.0^Belgorod International Airport
+YZV^50.0^Sept-Îles Airport
+SDY^50.0^Sidney-Richland Municipal Airport
+YKM^50.0^Yakima Air Terminal Airport
+TIN^50.0^Tindouf Airport
+USK^50.0^Usinsk Airport
+PNP^50.0^Girua Airport
+TUK^50.0^Turbat International Airport
+GST^50.0^Gustavus Airport
+LWY^50.0^Lawas Airport
+AZS^50.0^Samaná El Catey International Airport
+PIB^50.0^Pine Belt Regional Airport
+PIR^50.0^Pierre Municipal Airport
+YFB^50.0^Iqaluit Airport
+PBD^50.0^Porbandar Airport
+PMW^50.0^Brigadeiro Lysias Rodrigues Airport
+YVP^50.0^Kuujjuaq Airport
+YLL^50.0^Lloydminister, Alta.
+NZH^50.0^Manzhouli
+YKQ^50.0^Waskaganish Airport
+BVE^50.0^Brive-Vallée de la Dordogne
+BYC^50.0^Yacuiba Airport
+TKG^50.0^Telukbetung / Beranti
+JZH^50.0^Jiuzhai Huanglong Airport
+LXA^50.0^Lhasa Gonggar Airport
+LTX^50.0^Cotopaxi International Airport
+HKN^40.0^Kimbe Airport
+NQY^40.0^Saint Mawgan
+NOV^40.0^Nova Lisboa Airport
+ACI^40.0^Alderney Airport
+GMZ^40.0^La Gomera Airport
+YTH^40.0^Thompson Weather Office, Man
+IYK^40.0^Inyokern Airport
+DQA^40.0^Daqing Sartu Airport
+NNY^40.0^Nanyang Airport
+SVU^40.0^Savusavu Airport
+DRT^40.0^Del Rio International Airport
+CMW^40.0^Camaguey Aeropuerto
+JKL^40.0^Kalymnos Island National Airport
+BBB^40.0^Benson Municipal Airport
+MCX^40.0^Uytash Airport
+KZS^40.0^Kastelorizo Airport
+SYY^40.0^Stornoway Airport
+VDZ^40.0^Valdez Airport
+KLV^40.0^Karlovy Vary
+GGA^40.0^La Graciosa ES Ferry Port
+ZIG^40.0^Ziguinchor
+GMB^40.0^Gambella Airport
+XJN^40.0^Valladolid Bus Station
+LTK^40.0^Lattakia
+YJE^40.0^Alicante Railway Station
+BNI^40.0^Benin City
+XKH^40.0^Xieng Khouang Airport
+DEC^40.0^Decatur Airport
+KSA^40.0^Kosrae Airport
+GLN^40.0^Goulimime Airport
+MUR^40.0^Marudi Airfield
+LYC^40.0^Lycksele Airport
+LRH^40.0^La Rochelle - île de Ré
+JIJ^40.0^Jijiga Airport
+TUP^40.0^Tupelo Regional Airport
+RSH^40.0^Russian Mission Airport
+YQD^40.0^The Pas Airport
+CTM^40.0^Chetumal International Airport
+CND^40.0^Mihail Kogălniceanu International Airport
+HUI^40.0^Hue
+BRN^40.0^Bern-Belp Airport
+LLI^40.0^Lalibela Airport
+BZG^40.0^Bydgoszcz Ignacy Jan Paderewski Airport
+LAU^40.0^Manda Airport
+RAH^40.0^Rafha
+XAP^40.0^Chapecó Airport
+ZVE^40.0^Union Station
+PMY^40.0^Puerto Madryn, CHT
+TOD^40.0^Tioman
+IFO^40.0^Ivano-Frankivsk International Airport
+FEN^40.0^Fernando de Noronha Airport
+FEG^40.0^Fergana International Airport
+JTY^40.0^Astypalaia Airport
+THR^40.0^Mehrabad International Airport
+THS^40.0^Sukhothai Airport
+TIH^40.0^Tikehau Airport
+LMN^40.0^Limbang Airport
+HEA^40.0^Aerodrom Gerat
+MHC^40.0^Mocopulli Airport
+TKQ^40.0^Kigoma Airport
+TJA^40.0^Tarija
+AJI^40.0^Ağrı Airport
+VPE^40.0^Ngjiva Pereira Airport
+JST^40.0^Johnstown-Cambria County Airport
+ABB^40.0^RAF Abingdon
+BAY^40.0^Baia Mare
+RBQ^40.0^Rurrenabaque
+AZN^40.0^Andizhan Airport
+KIT^40.0^Kithira Airport
+YTM^40.0^La Macaza / Mont-Tremblant International Inc Airport
+CAL^40.0^Campbeltown Airport
+MCW^40.0^Mason City Municipal Airport
+KID^40.0^Kristianstad Airport
+IMT^40.0^Ford Airport
+BJZ^40.0^Badajoz Airport
+EAU^40.0^Chippewa Valley Regional Airport
+LCE^40.0^La Ceiba Airport
+ALS^40.0^San Luis Valley Regional Airport
+PHO^40.0^Point Hope Airport
+PIS^40.0^Poitiers-Biard
+PKB^40.0^Wood County Airport
+MAS^40.0^Momote Airport
+PKU^40.0^Sultan Syarif Kasim II International Airport
+PLM^40.0^Sultan Mahmud Badaruddin II Airport
+ZUH^40.0^Zhuhai Sanzao Airport
+YMN^40.0^Makkovik Airport
+ZFQ^40.0^Gare de Bordeaux-Saint-Jean
+ZWE^30.0^Antwerpen-Centraal station
+WIC^30.0^Wick
+SRZ^30.0^El Trompillo Airport
+YBG^30.0^Bagotville, Que.
+TKS^30.0^Tokushima Airport
+TFF^30.0^Tefe
+YCO^30.0^Coppermine, N. W. T.
+YXH^30.0^Medicine Hat Airport
+TOY^30.0^Toyama Airport
+BBN^30.0^Bario Airport
+TDX^30.0^Trat Airport
+TCB^30.0^Treasure Cay
+YTY^30.0^Yangzhou Taizhou Airport
+TBW^30.0^Donskoye Airport
+TPQ^30.0^Tepic, Nay.
+SZB^30.0^Subang/Sultan Abdul Aziz Shah Airport
+AOR^30.0^Sultan Abdul Halim Airport
+BXU^30.0^Bancasi Airport
+XMS^30.0^Coronel E Carvajal Airport
+BJI^30.0^Bemidji-Beltrami County Airport
+BWT^30.0^Wynyard Airport
+YRT^30.0^Rankin Inlet Airport
+CNJ^30.0^Cloncurry Airport
+YQZ^30.0^Quesnel Airport
+BVB^30.0^Boa Vista, Boa Vista Intl
+CPD^30.0^Coober Pedy Airport
+UDJ^30.0^Uzhhorod
+BHS^30.0^Bathurst Airport
+XCH^30.0^Christmas Island Aerodrome
+AAB^30.0^Arrabury Airport
+KUK^30.0^Kasigluk Airport
+NAA^30.0^Narrabri Airport
+ERZ^30.0^Erzurum
+DHM^30.0^Gaggal Airport
+DIE^30.0^Andrakaka
+KNU^30.0^Kanpur Civil Airport
+PAH^30.0^Barkley Regional Airport
+KMQ^30.0^Komatsu Airport
+KMI^30.0^Miyazaki Airport
+GTE^30.0^Groote Eylandt Airport
+OSY^30.0^Namsos Lufthavn
+NYM^30.0^Nadym Airport
+RVK^30.0^Rørvik Airport, Ryum
+RBR^30.0^Rio Branco
+GOU^30.0^Garoua
+RSD^30.0^Rock Sound International
+EBJ^30.0^Esbjerg
+LBE^30.0^Arnold Palmer Regional Airport
+RMF^30.0^Marsa Alam International Airport
+INL^30.0^Falls International Airport
+RKD^30.0^Knox County Regional Airport
+MEH^30.0^Mehamn Airport
+KCM^30.0^Kahramanmaraş Airport
+SHC^30.0^Shire Inda Selassie Airport
+GAY^30.0^Gaya Airport
+LJG^30.0^Lijiang Airport
+IXD^30.0^Allahabad Airport
+PUW^30.0^Pullman-Moscow Regional Airport
+KSM^30.0^Saint Marys Airport
+MSJ^30.0^Misawa Ab
+HIN^30.0^Sach'On Ab
+KTE^30.0^Lapangan Terbang Kertih
+JHS^30.0^Sisimiut Airport
+LPP^30.0^Lappeenranta Airport
+HOM^30.0^Homer Airport
+BTS^20.0^Bratislava Ivanka
+YQK^20.0^Kenora Airport
+PJG^20.0^Panjgur Airport
+BUA^20.0^Buka Airport
+OSW^20.0^Orsk Airport
+GGW^20.0^Glasgow International Airport
+PNK^20.0^Supadio Airport
+UKA^20.0^Ukunda Airstrip
+YHD^20.0^Dryden Airport
+FNJ^20.0^Pyongyang Sunan International Airport
+AUG^20.0^Augusta State Airport
+BTK^20.0^Bratsk Airport
+LUH^20.0^Ludhiana Airport
+PLX^20.0^Semey KZ
+APN^20.0^Alpena County Regional Airport
+GHB^20.0^Governor's Harbour Airport
+YPR^20.0^Prince Rupert, B. C.
+LYA^20.0^Luoyang Airport
+YPX^20.0^Povungnituq
+BZO^20.0^Bolzano Dolomiti Airport
+PDT^20.0^Pendleton Municipal Airport
+YOJ^20.0^High Level Airport
+FUT^20.0^Pointe Vele Airport
+MAJ^20.0^Amata Kabua International Airport
+TSF^20.0^Treviso / S. Angelo
+YGW^20.0^Kuujjuarapik Airport
+YMO^20.0^Moosonee Airport
+FSP^20.0^Saint-Pierre
+MCK^20.0^McCook Municipal Airport
+PAG^20.0^Pagadian Airport
+TRO^20.0^Taree Airport
+YKU^20.0^Chisasibi Airport
+GFN^20.0^Clarence Valley Regional Airport
+GGG^20.0^Gregg County Airport
+PDS^20.0^Piedras Negras International
+YIP^20.0^Willow Run Airport
+MCN^20.0^Middle Georgia Regional Airport
+BKW^20.0^Raleigh County Memorial Airport
+UKX^20.0^Ust-Kut Airport
+XQP^20.0^Quepos Managua Airport
+NCY^20.0^Annecy-Meythet
+HCR^20.0^Holy Cross Airport
+XQE^20.0^London GB Ebbsfleet Intl Rail
+NAJ^20.0^Nakhchivan Airport
+BFF^20.0^Western Nebraska Regional Airport
+MMU^20.0^Morristown Municipal Airport
+HUU^20.0^Huanuco
+HGR^20.0^Washington County Regional Airport
+MNG^20.0^Maningrida Airport
+MXZ^20.0^Meixian Airport
+XHJ^20.0^Aachen DE Hbf Railway Station
+WBM^20.0^Wapenamanda Airport
+HKD^20.0^Hakodate Airport
+XFN^20.0^Xiangfan Airport
+MSE^20.0^Kent International Airport
+HPH^20.0^Cat Bi International Airport
+WNP^20.0^Naga Airport
+WRG^20.0^Wrangell Airport
+HMV^20.0^Hemavan
+WTL^20.0^Tuntutuliak Airport
+MSS^20.0^Massena International Airport-Richards Field
+VOL^20.0^Anchialos Airport
+XRF^20.0^Gare Saint-Charles
+INC^20.0^Yinchuan Hedong Airport
+NDU^20.0^Rundu Airport
+GMR^20.0^Totegegie Airport
+MEI^20.0^Key Field Airport
+UNG^20.0^Kiunga Airport
+PNT^20.0^Tte. Julio Gallardo Airport
+MGW^20.0^Morgantown Municipal Airport
+OMD^20.0^Oranjemund
+MIM^20.0^Merimbula Airport
+OGX^20.0^Ouargla
+MKM^20.0^Mukah Airport
+IBA^20.0^Ibadan Airport
+NYT^20.0^Nay Pyi Taw
+GRV^20.0^Grozny Airport
+IAM^20.0^In Aménas Airport
+BDJ^20.0^Syamsudin Noor Airport
+MMH^20.0^Mammoth Lakes Airport
+NSK^20.0^Norilsk-Alykel Airport
+VEL^20.0^Vernal Airport
+NRK^20.0^Norrköping Airport
+HYS^20.0^Hays Municipal Airport
+BEB^20.0^Benbecula Airport
+NGY^20.0^Nagoya Bus Station
+TNN^20.0^Tainan Airport
+HOF^20.0^Al Ahsa
+ROP^20.0^Rota International Airport
+YWH^20.0^Victoria Inner Harbour Airport
+RSA^20.0^Santa Rosa Aerodrome
+AGB^20.0^Augsburg Airport
+SHD^20.0^Shenandoah Valley Regional Airport
+LAR^20.0^Laramie Regional Airport
+KVX^20.0^Pobedilovo Airport
+PQC^20.0^Phu Quoc International Airport
+ROO^20.0^Rondonópolis Airport
+CMF^20.0^Chambéry - Aix-les-Bains
+KIJ^20.0^Niigata Airport
+KGT^20.0^Kangding Airport
+YXL^20.0^Sioux Lookout Airport
+YWL^20.0^Williams Lake, B. C.
+RIB^20.0^Riberalta
+SMX^20.0^Santa Maria Airport
+LKG^20.0^Lokichoggio Airport
+LKL^20.0^Lakselv Banak Airport
+ACH^20.0^St. Gallen-Altenrhein Airport
+DND^20.0^Dundee / Riverside
+CNM^20.0^Cavern City Air Terminal
+DCN^20.0^Derby RAAF Curtin Base
+SCM^20.0^Scammon Bay Airport
+SOM^20.0^San Tome Private
+KOZ^20.0^Ouzinkie Airport
+CSY^20.0^Cheboksary Airport
+KMS^20.0^Kumasi Airport
+DDG^20.0^Dandong Langtou Airport
+DIJ^20.0^Dijon-Longvic
+SCV^20.0^Suceava / Salcea
+SCC^20.0^Deadhorse Airport
+SVA^20.0^Savoonga Airport
+CTC^20.0^Catamarca Aero.
+YZR^20.0^Sarnia Airport
+COQ^20.0^Choibalsan Airport
+KWG^20.0^Kryvyi Rih International Airport
+DMB^20.0^Taraz Airport
+KWA^20.0^Kwajalein International Airport
+YYQ^20.0^Churchill, Man.
+SLM^20.0^Salamanca Airport
+TBG^20.0^Tabubil Airport
+RDD^20.0^Redding Municipal Airport
+SKU^20.0^Skiros Airport
+ALO^20.0^Waterloo Municipal Airport
+ZVJ^20.0^Abu Dhabi AE Ek Bus Station
+AAN^20.0^Al Ain International Airport
+CXB^20.0^Cox's Bazar Airport
+ESU^20.0^Essaouira
+LRE^20.0^Longreach Airport
+ZYN^20.0^Nîmes Railway Station
+PYH^20.0^Puerto Ayacucho
+PVC^20.0^Provincetown Municipal Airport
+CFN^20.0^Donegal Airport
+PUB^20.0^Pueblo Memorial Airport
+PSR^20.0^Aeroporto d'Abruzzo
+EZS^20.0^Elazığ Airport
+JBR^20.0^Jonesboro Municipal Airport
+PQS^20.0^Pilot Station Airport
+AOJ^20.0^Aomori Airport
+AOO^20.0^Altoona-Blair County Airport
+TMR^20.0^Tamanrasset / Aguenna
+ZVK^20.0^Savannakhet Airport
+YVQ^20.0^Norman Wells Airport
+QDU^20.0^Duesseldorf DE Hbf Railway Sta
+SKZ^20.0^Sukkur Airport
+YUY^20.0^Rouyn Airport
+EIN^20.0^Eindhoven
+SLI^20.0^Solwezi
+CIU^20.0^Chippewa County International Airport
+EJH^20.0^Wejh
+CIJ^20.0^Cobija
+JSY^20.0^Syros Island National Airport
+EKO^20.0^Elko Regional Airport
+KUT^20.0^Kutaisi International Airport
+QUO^20.0^Akwa Ibom International Airport
+QUB^20.0^Ubari Airport
+QJZ^20.0^Gare de Nantes
+EQS^20.0^Esquel Aerodrome
+KRF^20.0^Kramfors Flygplats
+KVL^10.0^Kivalina Airport
+WWK^10.0^Wewak
+BFD^10.0^Bradford Regional Airport
+HUE^10.0^Humera Airport
+ZSA^10.0^San Salvador Airport
+ZSE^10.0^Pierrefonds Airport
+KSQ^10.0^Karshi-Khanabad Air Base
+MSL^10.0^Muscle Shoals Regional Airport
+HSN^10.0^Zhoushan Airport
+LUG^10.0^Lugano Airport
+KPO^10.0^Pohang Airport
+KAD^10.0^Kaduna
+HOB^10.0^Hobbs Airport
+LPK^10.0^Lipetsk Airport
+IWK^10.0^Iwakuni JP Iwakuni Airport
+JNX^10.0^Cyclades Islands, Naxos Airport
+YMT^10.0^Chibougamau/Chapais Airport
+JOS^10.0^Jos
+YUD^10.0^Umiujaq
+JQA^10.0^Qaarsut Airport
+ISE^10.0^Suleyman Demirel
+YIH^10.0^Yichang Airport
+AKF^10.0^Kufra Airport
+YHO^10.0^Hopedale Airport
+AWZ^10.0^Ahwaz Airport
+KWN^10.0^Quinhagak Airport
+AXA^10.0^Clayton J. Lloyd International Airport
+YGX^10.0^Gillam Airport
+KGP^10.0^Kogalym International Airport
+ILD^10.0^Lleida-Alguaire Airport
+MKG^10.0^Muskegon County Airport
+KKE^10.0^Kerikeri Airport
+MLW^10.0^Spriggs Payne
+KZR^10.0^Kütahya Zafer Airport
+YZP^10.0^Sandspit Airport
+YZZ^10.0^Trail
+HYN^10.0^Taizhou Luqiao Airport
+XZI^10.0^Metz FR Lorraine Tgv Rail Stn
+JAV^10.0^Ilulissat Airport
+KUH^10.0^Kushiro Airport
+WUS^10.0^Nanping Wuyishan Airport
+DVL^10.0^Devils Lake Municipal Airport
+GJL^10.0^Jijel Achouat
+ORU^10.0^Oruro Airport
+EGC^10.0^Bergerac-Roumanière
+ORB^10.0^Örebro Airport
+RGS^10.0^Burgos Villafria Airport
+DZN^10.0^Dzezkazgan
+DWD^10.0^Dawadmi Domestic Airport
+SZA^10.0^Soyo Airport
+UAK^10.0^Narsarsuaq Airport
+TMX^10.0^Timimoun Airport
+CMG^10.0^Corumba
+RSU^10.0^Yeosu Airport
+CNY^10.0^Canyonlands Field
+COD^10.0^Yellowstone Regional Airport
+DLZ^10.0^Dalanzadgad Airport
+UTP^10.0^U-Tapao International Airport
+OSR^10.0^Leoš Janáček Airport Ostrava
+CHU^10.0^Chuathbaluk Airport
+UUA^10.0^Bugulma Airport
+TIM^10.0^Moses Kilangin Airport
+CEC^10.0^Jack Mc Namara Field Airport
+PSG^10.0^Petersburg Seaplane Base
+TIZ^10.0^Tari Airport
+PED^10.0^Pardubice Airport
+TUB^10.0^Tubuai – Mataura Airport
+TIU^10.0^Richard Pearse Airport
+PZH^10.0^Fort Sandeman Airfield
+PBG^10.0^Plattsburgh Air Force Base
+BUL^10.0^Bulolo
+GCK^10.0^Garden City Regional Airport
+PZU^10.0^Port Sudan International
+GDE^10.0^Gode Airport
+OXB^10.0^Bissau Aeroport
+ERS^10.0^Eros Airport
+TGM^10.0^Târgu Mureș Transilvania Airport
+ERC^10.0^Erzincan
+BQB^10.0^Busselton Airport
+CDV^10.0^Merle K. (Mudhole) Smith Airport
+VVZ^10.0^Illizi
+CYZ^10.0^Cauayan
+SKK^10.0^Shaktoolik Airport
+MXX^10.0^Mora-Siljan Airport
+NDB^10.0^Nouadhibou
+HET^10.0^Hohhot
+BJF^10.0^Båtsfjord Airport
+CTL^10.0^Charleville Airport
+SOC^10.0^Adi Sumarmo International Airport
+SLU^10.0^Vigie Airport
+SMK^10.0^St Michael Airport
+CUM^10.0^Cumana
+NOC^10.0^Connaught
+SDN^10.0^Sandane / Anda
+CRI^10.0^Colonel Hill Airport
+NOJ^10.0^Noyabrsk Airport
+MSZ^10.0^Namibe Airport
+HFS^10.0^Hagfors Airport
+CXJ^10.0^Campo dos Bugres Airport
+ABK^0.0^Kabre Dare Military
+JOG^0.0^Adisucipto International Airport
+CZX^0.0^Changzhou Benniu Airport
+SJW^0.0^Shijiazhuang Daguocun International Airport
+ALP^0.0^Aleppo International Airport
+KLX^0.0^Kalamata Airport
+KTL^0.0^Kitale Airport
+KUS^0.0^Kulusuk Lufthavn
+JIK^0.0^Ikaria Airport
+TGR^0.0^Touggourt
+CWC^0.0^Chernovsty
+LRR^0.0^Lar
+LSA^0.0^Losuia Airport
+CXI^0.0^Cassidy International Airport
+CED^0.0^Ceduna Airport
+LUD^0.0^Luderitz Airport
+KUN^0.0^Kaunas
+YRL^0.0^Red Lake, Ont.
+ZLN^0.0^Gare du Mans
+ABR^0.0^Aberdeen Regional Airport
+RIL^0.0^Garfield County Regional Airport
+KMJ^0.0^Kumamoto Airport
+STM^0.0^Santarem-Aeroporto
+DIG^0.0^Dêqên Shangri-La Airport
+YYU^0.0^Kapuskasing Airport
+SPP^0.0^Menongue Airport
+SDP^0.0^Sand Point Airport
+RJK^0.0^Rijeka/Krk
+YXN^0.0^Whale Cove Airport
+DYG^0.0^Dayong Airport
+SHP^0.0^Qinhuangdao Shanhaiguan Airport
+ELD^0.0^Goodwin Field
+RHD^0.0^Las Termas Airport
+KAC^0.0^Kamishli
+CJJ^0.0^Cheongju International Airport
+ZHA^0.0^Zhanjiang
+SNE^0.0^Preguiça Airport
+JTC^0.0^Bauru-Arealva Airport
+EGM^0.0^Seghe Airport
+AKY^0.0^Akyab
+SAB^0.0^Juancho E. Yrausquin Airport
+AGM^0.0^Tasiilaq Heliport
+CBG^0.0^Cambridge
+ULH^0.0^Al Ula
+MWA^0.0^Williamson County Regional Airport
+HLD^0.0^Dongshan Airport
+YGR^0.0^Iles de la Madeleine
+MDL^0.0^Mandalay International Airport
+BND^0.0^Bandarabbass
+YGJ^0.0^Miho Ab
+GLH^0.0^Greenville International Airport
+BRL^0.0^Burlington Municipal Airport
+MPN^0.0^Mount Pleasant Airport
+ILY^0.0^Islay Airport
+BAL^0.0^Batman
+YEV^0.0^Inuvik, N. W. T.
+HSL^0.0^Huslia Airport
+HJJ^0.0^Zhijiang Airport
+UKB^0.0^Kobe Airport
+XOP^0.0^Gare de Poitiers
+OIA^0.0^Ourilandia
+OHH^0.0^Okha Airport
+IGD^0.0^Igdir TR Igdir Airport
+XPJ^0.0^Montpellier FR St Roch Railway
+MJN^0.0^Majunga
+UYU^0.0^Uyuni BO Uyuni
+NTG^0.0^Nantong Airport
+VCT^0.0^Victoria Regional Airport
+HVG^0.0^Honningsvag / Valan
+VLV^0.0^Valera
+XZZ^0.0^Zaragoza ES Delicias Railway S
+AXP^0.0^Spring Point Airport
+GWL^0.0^Gwalior Airport
+MCE^0.0^Merced Municipal Airport
+FUN^0.0^Funafuti International Airport
+LYG^0.0^Lianyungang Airport
+FSZ^0.0^Shizuoka Airport
+TUI^0.0^Turaif
+WMN^0.0^Maroantsetra Airport
+BTH^0.0^Hang Nadim Airport
+YNZ^0.0^Yancheng Nanyang Airport
+PGA^0.0^Page Municipal Airport
+LXG^0.0^Luang Namtha Airport
+MSR^0.0^Muş Airport
+WUA^0.0^Wuhai
+OZC^0.0^Labo Airport
+BUN^0.0^Buenaventura
+IRJ^0.0^La Rioja Aero.
+IPN^0.0^Usiminas Airport
+LUM^0.0^Mangshi Airport
+ATY^0.0^Watertown Municipal Airport
+IPH^0.0^Sultan Azlan Shah Airport
+UAH^0.0^Ua Huka Airport
+YHY^0.0^Hay River Airport
+TUG^-10.0^Tuguegarao Airport
+SUG^-10.0^Surigao
+YQL^-10.0^Lethbridge, Alta.
+OSK^-10.0^Oskarshamn
+DPL^-10.0^Dipolog
+YOP^-10.0^Rainbow Lake Airport
+XJY^-10.0^Paris FR Massy Tgv Rail Statio
+JMU^-10.0^Jiamusi Airport
+LBL^-10.0^Liberal Mid-America Regional Airport
+MGF^-10.0^Maringa
+JSI^-10.0^Skiathos Island
+HDG^-20.0^Hebei Handan
+KSN^-20.0^Kostanay Airport
+HRI^-20.0^Hambantota International Airport
+BER^-20.0^Berlin Brandenburg Airport
+XUZ^-20.0^Xuzhou Guanyin Airport
+FLA^-20.0^Gustavo Artunduaga Paredes Airport
+LBF^-20.0^North Platte Regional Airport Lee Bird Field
+RRG^-20.0^Rodrigues
+YRB^-20.0^Resolute, N. W. T.
+LEN^-20.0^Leon / Virgen Del Camino
+BAV^-20.0^Baotou Erliban Airport
+YCU^-20.0^Yuncheng Guangong Airport
+IFN^-20.0^Esfahan
+TAG^-20.0^Tagbilaran Airfield
+YAY^-20.0^Saint Anthony Airport
+CPQ^-20.0^Amarais Airport
+VDM^-20.0^Gobernador Edgardo Castello Airport
+RXS^-30.0^Roxas
+CGD^-30.0^Changde Airport
+KKJ^-40.0^Kitakyūshū Airport
+XNN^-40.0^Xining Caojiabao Airport
+KUU^-40.0^Kullu Manali Airport
+FLW^-50.0^Flores Acores
+MUA^-60.0^Munda
+CXR^-60.0^Cam Ranh International Airport
+SDJ^-70.0^Sendai Airport
+MYJ^-80.0^Matsuyama Airport
+UPG^-90.0^Ujung Pandang / Hasanuddin
+XWG^-90.0^Strasbourg FR Railway Station
+MZV^-350.0^Mulu Airport
+AYQ^-1270.0^Ayers Rock
